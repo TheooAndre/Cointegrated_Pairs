@@ -1,0 +1,1205 @@
+2025-02-13 21:50:10,310 - INFO - Starting pairs trading analysis
+2025-02-13 21:50:13,274 - INFO - Initial markets: 367
+2025-02-13 21:50:13,274 - ERROR - Error fetching volume for BTCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:13,376 - ERROR - Error fetching volume for ETHUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:13,477 - ERROR - Error fetching volume for BCHUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:13,651 - ERROR - Error fetching volume for XRPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:13,752 - ERROR - Error fetching volume for EOSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:13,854 - ERROR - Error fetching volume for LTCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:13,955 - ERROR - Error fetching volume for TRXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:14,056 - ERROR - Error fetching volume for ETCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:14,176 - ERROR - Error fetching volume for LINKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:14,277 - ERROR - Error fetching volume for XLMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:14,378 - ERROR - Error fetching volume for ADAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:14,480 - ERROR - Error fetching volume for XMRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:14,581 - ERROR - Error fetching volume for DASHUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:14,682 - ERROR - Error fetching volume for ZECUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:14,785 - ERROR - Error fetching volume for XTZUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:14,886 - ERROR - Error fetching volume for BNBUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:14,987 - ERROR - Error fetching volume for ATOMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:15,089 - ERROR - Error fetching volume for ONTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:15,190 - ERROR - Error fetching volume for IOTAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:15,291 - ERROR - Error fetching volume for BATUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:15,393 - ERROR - Error fetching volume for VETUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:15,494 - ERROR - Error fetching volume for NEOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:15,658 - ERROR - Error fetching volume for QTUMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:15,759 - ERROR - Error fetching volume for IOSTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:15,859 - ERROR - Error fetching volume for THETAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:16,033 - ERROR - Error fetching volume for ALGOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:16,134 - ERROR - Error fetching volume for ZILUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:16,235 - ERROR - Error fetching volume for KNCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:16,410 - ERROR - Error fetching volume for ZRXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:16,512 - ERROR - Error fetching volume for COMPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:16,663 - ERROR - Error fetching volume for DOGEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:16,764 - ERROR - Error fetching volume for SXPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:16,871 - ERROR - Error fetching volume for KAVAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:17,030 - ERROR - Error fetching volume for BANDUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:17,131 - ERROR - Error fetching volume for RLCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:17,232 - ERROR - Error fetching volume for MKRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:17,334 - ERROR - Error fetching volume for SNXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:17,435 - ERROR - Error fetching volume for DOTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:17,535 - ERROR - Error fetching volume for DEFIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:17,638 - ERROR - Error fetching volume for YFIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:17,740 - ERROR - Error fetching volume for BALUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:17,841 - ERROR - Error fetching volume for CRVUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:18,005 - ERROR - Error fetching volume for TRBUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:18,109 - ERROR - Error fetching volume for RUNEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:18,211 - ERROR - Error fetching volume for SUSHIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:18,312 - ERROR - Error fetching volume for EGLDUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:18,413 - ERROR - Error fetching volume for SOLUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:18,515 - ERROR - Error fetching volume for ICXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:18,615 - ERROR - Error fetching volume for STORJUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:18,717 - ERROR - Error fetching volume for UNIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:18,818 - ERROR - Error fetching volume for AVAXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:18,919 - ERROR - Error fetching volume for ENJUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:19,020 - ERROR - Error fetching volume for FLMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:19,121 - ERROR - Error fetching volume for KSMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:19,223 - ERROR - Error fetching volume for NEARUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:19,323 - ERROR - Error fetching volume for AAVEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:19,425 - ERROR - Error fetching volume for FILUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:19,526 - ERROR - Error fetching volume for RSRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:19,628 - ERROR - Error fetching volume for LRCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:19,729 - ERROR - Error fetching volume for BELUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:19,830 - ERROR - Error fetching volume for AXSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:19,932 - ERROR - Error fetching volume for ALPHAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:20,033 - ERROR - Error fetching volume for ZENUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:20,134 - ERROR - Error fetching volume for SKLUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:20,235 - ERROR - Error fetching volume for GRTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:20,336 - ERROR - Error fetching volume for 1INCHUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:20,439 - ERROR - Error fetching volume for CHZUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:20,539 - ERROR - Error fetching volume for SANDUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:20,641 - ERROR - Error fetching volume for ANKRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:20,742 - ERROR - Error fetching volume for RVNUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:20,843 - ERROR - Error fetching volume for SFPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:20,944 - ERROR - Error fetching volume for COTIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:21,046 - ERROR - Error fetching volume for CHRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:21,148 - ERROR - Error fetching volume for MANAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:21,248 - ERROR - Error fetching volume for ALICEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:21,349 - ERROR - Error fetching volume for HBARUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:21,451 - ERROR - Error fetching volume for ONEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:21,552 - ERROR - Error fetching volume for LINAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:21,652 - ERROR - Error fetching volume for STMXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:21,754 - ERROR - Error fetching volume for DENTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:21,883 - ERROR - Error fetching volume for CELRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:21,989 - ERROR - Error fetching volume for HOTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:22,091 - ERROR - Error fetching volume for MTLUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:22,192 - ERROR - Error fetching volume for OGNUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:22,294 - ERROR - Error fetching volume for NKNUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:22,395 - ERROR - Error fetching volume for 1000SHIBUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:22,496 - ERROR - Error fetching volume for BAKEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:22,597 - ERROR - Error fetching volume for GTCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:22,697 - ERROR - Error fetching volume for BTCDOMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:22,799 - ERROR - Error fetching volume for IOTXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:22,947 - ERROR - Error fetching volume for C98USDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:23,048 - ERROR - Error fetching volume for MASKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:23,149 - ERROR - Error fetching volume for ATAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:23,257 - ERROR - Error fetching volume for DYDXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:23,359 - ERROR - Error fetching volume for 1000XECUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:23,461 - ERROR - Error fetching volume for GALAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:23,563 - ERROR - Error fetching volume for CELOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:23,665 - ERROR - Error fetching volume for ARUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:23,768 - ERROR - Error fetching volume for ARPAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:23,869 - ERROR - Error fetching volume for CTSIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:23,969 - ERROR - Error fetching volume for LPTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:24,071 - ERROR - Error fetching volume for ENSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:24,171 - ERROR - Error fetching volume for PEOPLEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:24,275 - ERROR - Error fetching volume for ROSEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:24,376 - ERROR - Error fetching volume for DUSKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:24,478 - ERROR - Error fetching volume for FLOWUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:24,579 - ERROR - Error fetching volume for IMXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:24,679 - ERROR - Error fetching volume for API3USDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:24,845 - ERROR - Error fetching volume for GMTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:24,948 - ERROR - Error fetching volume for APEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:25,048 - ERROR - Error fetching volume for WOOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:25,150 - ERROR - Error fetching volume for JASMYUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:25,251 - ERROR - Error fetching volume for OPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:25,444 - ERROR - Error fetching volume for INJUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:25,546 - ERROR - Error fetching volume for STGUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:25,695 - ERROR - Error fetching volume for SPELLUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:25,796 - ERROR - Error fetching volume for 1000LUNCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:25,898 - ERROR - Error fetching volume for LUNA2USDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:25,998 - ERROR - Error fetching volume for LDOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:26,100 - ERROR - Error fetching volume for ICPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:26,202 - ERROR - Error fetching volume for APTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:26,305 - ERROR - Error fetching volume for QNTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:26,411 - ERROR - Error fetching volume for FETUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:26,512 - ERROR - Error fetching volume for FXSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:26,614 - ERROR - Error fetching volume for HOOKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:26,715 - ERROR - Error fetching volume for MAGICUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:26,815 - ERROR - Error fetching volume for TUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:26,989 - ERROR - Error fetching volume for HIGHUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:27,091 - ERROR - Error fetching volume for MINAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:27,192 - ERROR - Error fetching volume for ASTRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:27,293 - ERROR - Error fetching volume for PHBUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:27,393 - ERROR - Error fetching volume for GMXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:27,498 - ERROR - Error fetching volume for CFXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:27,599 - ERROR - Error fetching volume for STXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:27,700 - ERROR - Error fetching volume for BNXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:27,802 - ERROR - Error fetching volume for ACHUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:27,903 - ERROR - Error fetching volume for SSVUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:28,005 - ERROR - Error fetching volume for CKBUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:28,203 - ERROR - Error fetching volume for PERPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:28,305 - ERROR - Error fetching volume for TRUUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:28,407 - ERROR - Error fetching volume for LQTYUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:28,511 - ERROR - Error fetching volume for USDCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:28,612 - ERROR - Error fetching volume for IDUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:28,714 - ERROR - Error fetching volume for ARBUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:28,815 - ERROR - Error fetching volume for JOEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:28,916 - ERROR - Error fetching volume for TLMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:29,021 - ERROR - Error fetching volume for AMBUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:29,171 - ERROR - Error fetching volume for LEVERUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:29,282 - ERROR - Error fetching volume for RDNTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:29,383 - ERROR - Error fetching volume for HFTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:29,490 - ERROR - Error fetching volume for XVSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:29,591 - ERROR - Error fetching volume for BLURUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:29,692 - ERROR - Error fetching volume for EDUUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:29,816 - ERROR - Error fetching volume for SUIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:29,918 - ERROR - Error fetching volume for 1000PEPEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:30,018 - ERROR - Error fetching volume for 1000FLOKIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:30,119 - ERROR - Error fetching volume for UMAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:30,330 - ERROR - Error fetching volume for COMBOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:30,430 - ERROR - Error fetching volume for NMRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:30,531 - ERROR - Error fetching volume for MAVUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:30,633 - ERROR - Error fetching volume for XVGUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:30,738 - ERROR - Error fetching volume for WLDUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:30,840 - ERROR - Error fetching volume for PENDLEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:30,943 - ERROR - Error fetching volume for ARKMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:31,048 - ERROR - Error fetching volume for AGLDUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:31,148 - ERROR - Error fetching volume for YGGUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:31,249 - ERROR - Error fetching volume for DODOXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:31,352 - ERROR - Error fetching volume for BNTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:31,454 - ERROR - Error fetching volume for OXTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:31,556 - ERROR - Error fetching volume for SEIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:31,657 - ERROR - Error fetching volume for CYBERUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:31,758 - ERROR - Error fetching volume for HIFIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:31,859 - ERROR - Error fetching volume for ARKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:31,961 - ERROR - Error fetching volume for BICOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:32,074 - ERROR - Error fetching volume for BIGTIMEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:32,174 - ERROR - Error fetching volume for WAXPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:32,276 - ERROR - Error fetching volume for BSVUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:32,377 - ERROR - Error fetching volume for RIFUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:32,477 - ERROR - Error fetching volume for POLYXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:32,578 - ERROR - Error fetching volume for GASUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:32,678 - ERROR - Error fetching volume for POWRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:32,780 - ERROR - Error fetching volume for TIAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:32,881 - ERROR - Error fetching volume for CAKEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:32,983 - ERROR - Error fetching volume for MEMEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:33,083 - ERROR - Error fetching volume for TWTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:33,184 - ERROR - Error fetching volume for TOKENUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:33,288 - ERROR - Error fetching volume for ORDIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:33,389 - ERROR - Error fetching volume for STEEMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:33,491 - ERROR - Error fetching volume for BADGERUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:33,607 - ERROR - Error fetching volume for ILVUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:33,709 - ERROR - Error fetching volume for NTRNUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:33,811 - ERROR - Error fetching volume for KASUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:33,912 - ERROR - Error fetching volume for BEAMXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:34,013 - ERROR - Error fetching volume for 1000BONKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:34,114 - ERROR - Error fetching volume for PYTHUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:34,216 - ERROR - Error fetching volume for SUPERUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:34,318 - ERROR - Error fetching volume for USTCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:34,421 - ERROR - Error fetching volume for ONGUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:34,522 - ERROR - Error fetching volume for ETHWUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:34,623 - ERROR - Error fetching volume for JTOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:34,725 - ERROR - Error fetching volume for 1000SATSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:34,827 - ERROR - Error fetching volume for AUCTIONUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:34,929 - ERROR - Error fetching volume for 1000RATSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:35,029 - ERROR - Error fetching volume for ACEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:35,131 - ERROR - Error fetching volume for MOVRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:35,232 - ERROR - Error fetching volume for NFPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:35,333 - ERROR - Error fetching volume for AIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:35,433 - ERROR - Error fetching volume for XAIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:35,535 - ERROR - Error fetching volume for WIFUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:35,636 - ERROR - Error fetching volume for MANTAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:35,737 - ERROR - Error fetching volume for ONDOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:35,839 - ERROR - Error fetching volume for LSKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:35,941 - ERROR - Error fetching volume for ALTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:36,042 - ERROR - Error fetching volume for JUPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:36,144 - ERROR - Error fetching volume for ZETAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:36,245 - ERROR - Error fetching volume for RONINUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:36,347 - ERROR - Error fetching volume for DYMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:36,449 - ERROR - Error fetching volume for OMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:36,551 - ERROR - Error fetching volume for PIXELUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:36,652 - ERROR - Error fetching volume for STRKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:36,752 - ERROR - Error fetching volume for GLMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:36,853 - ERROR - Error fetching volume for PORTALUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:36,954 - ERROR - Error fetching volume for TONUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:37,055 - ERROR - Error fetching volume for AXLUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:37,160 - ERROR - Error fetching volume for MYROUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:37,261 - ERROR - Error fetching volume for METISUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:37,363 - ERROR - Error fetching volume for AEVOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:37,464 - ERROR - Error fetching volume for VANRYUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:37,565 - ERROR - Error fetching volume for BOMEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:37,665 - ERROR - Error fetching volume for ETHFIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:37,766 - ERROR - Error fetching volume for ENAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:37,867 - ERROR - Error fetching volume for WUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:37,968 - ERROR - Error fetching volume for TNSRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:38,069 - ERROR - Error fetching volume for SAGAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:38,170 - ERROR - Error fetching volume for TAOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:38,271 - ERROR - Error fetching volume for OMNIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:38,373 - ERROR - Error fetching volume for REZUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:38,474 - ERROR - Error fetching volume for BBUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:38,577 - ERROR - Error fetching volume for NOTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:38,678 - ERROR - Error fetching volume for TURBOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:38,783 - ERROR - Error fetching volume for IOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:38,884 - ERROR - Error fetching volume for ZKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:38,985 - ERROR - Error fetching volume for MEWUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:39,086 - ERROR - Error fetching volume for LISTAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:39,208 - ERROR - Error fetching volume for ZROUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:39,362 - ERROR - Error fetching volume for RENDERUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:39,462 - ERROR - Error fetching volume for BANANAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:39,564 - ERROR - Error fetching volume for RAREUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:39,665 - ERROR - Error fetching volume for GUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:39,765 - ERROR - Error fetching volume for SYNUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:39,866 - ERROR - Error fetching volume for SYSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:39,968 - ERROR - Error fetching volume for VOXELUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:40,069 - ERROR - Error fetching volume for BRETTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:40,169 - ERROR - Error fetching volume for ALPACAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:40,270 - ERROR - Error fetching volume for POPCATUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:40,371 - ERROR - Error fetching volume for SUNUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:40,471 - ERROR - Error fetching volume for VIDTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:40,574 - ERROR - Error fetching volume for NULSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:40,676 - ERROR - Error fetching volume for DOGSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:40,777 - ERROR - Error fetching volume for MBOXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:40,878 - ERROR - Error fetching volume for CHESSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:40,979 - ERROR - Error fetching volume for FLUXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:41,081 - ERROR - Error fetching volume for BSWUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:41,182 - ERROR - Error fetching volume for QUICKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:41,284 - ERROR - Error fetching volume for NEIROETHUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:41,386 - ERROR - Error fetching volume for RPLUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:41,488 - ERROR - Error fetching volume for AERGOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:41,590 - ERROR - Error fetching volume for POLUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:41,691 - ERROR - Error fetching volume for UXLINKUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:41,793 - ERROR - Error fetching volume for 1MBABYDOGEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:41,893 - ERROR - Error fetching volume for NEIROUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:41,994 - ERROR - Error fetching volume for KDAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:42,096 - ERROR - Error fetching volume for FIDAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:42,198 - ERROR - Error fetching volume for FIOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:42,299 - ERROR - Error fetching volume for CATIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:42,401 - ERROR - Error fetching volume for GHSTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:42,503 - ERROR - Error fetching volume for LOKAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:42,603 - ERROR - Error fetching volume for HMSTRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:42,704 - ERROR - Error fetching volume for BTCUSDT_250328: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:42,805 - ERROR - Error fetching volume for ETHUSDT_250328: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:42,908 - ERROR - Error fetching volume for REIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:43,009 - ERROR - Error fetching volume for COSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:43,110 - ERROR - Error fetching volume for EIGENUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:43,211 - ERROR - Error fetching volume for DIAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:43,313 - ERROR - Error fetching volume for 1000CATUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:43,414 - ERROR - Error fetching volume for SCRUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:43,526 - ERROR - Error fetching volume for GOATUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:43,629 - ERROR - Error fetching volume for MOODENGUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:43,730 - ERROR - Error fetching volume for SAFEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:43,831 - ERROR - Error fetching volume for SANTOSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:43,932 - ERROR - Error fetching volume for TROYUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:44,037 - ERROR - Error fetching volume for PONKEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:44,138 - ERROR - Error fetching volume for COWUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:44,238 - ERROR - Error fetching volume for CETUSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:44,339 - ERROR - Error fetching volume for 1000000MOGUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:44,478 - ERROR - Error fetching volume for GRASSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:44,579 - ERROR - Error fetching volume for DRIFTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:44,680 - ERROR - Error fetching volume for SWELLUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:44,782 - ERROR - Error fetching volume for ACTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:44,883 - ERROR - Error fetching volume for PNUTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:44,983 - ERROR - Error fetching volume for HIPPOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:45,119 - ERROR - Error fetching volume for 1000XUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:45,220 - ERROR - Error fetching volume for DEGENUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:45,321 - ERROR - Error fetching volume for BANUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:45,422 - ERROR - Error fetching volume for AKTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:45,523 - ERROR - Error fetching volume for SLERFUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:45,624 - ERROR - Error fetching volume for SCRTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:45,724 - ERROR - Error fetching volume for 1000CHEEMSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:45,849 - ERROR - Error fetching volume for 1000WHYUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:45,951 - ERROR - Error fetching volume for THEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:46,052 - ERROR - Error fetching volume for MORPHOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:46,152 - ERROR - Error fetching volume for CHILLGUYUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:46,253 - ERROR - Error fetching volume for KAIAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:46,354 - ERROR - Error fetching volume for AEROUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:46,454 - ERROR - Error fetching volume for ACXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:46,555 - ERROR - Error fetching volume for ORCAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:46,656 - ERROR - Error fetching volume for MOVEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:46,759 - ERROR - Error fetching volume for RAYSOLUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:46,860 - ERROR - Error fetching volume for KOMAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:46,961 - ERROR - Error fetching volume for VIRTUALUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:47,061 - ERROR - Error fetching volume for SPXUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:47,162 - ERROR - Error fetching volume for MEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:47,263 - ERROR - Error fetching volume for AVAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:47,364 - ERROR - Error fetching volume for DEGOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:47,464 - ERROR - Error fetching volume for VELODROMEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:47,565 - ERROR - Error fetching volume for MOCAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:47,665 - ERROR - Error fetching volume for VANAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:47,766 - ERROR - Error fetching volume for PENGUUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:47,867 - ERROR - Error fetching volume for LUMIAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:47,967 - ERROR - Error fetching volume for USUALUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:48,068 - ERROR - Error fetching volume for AIXBTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:48,169 - ERROR - Error fetching volume for FARTCOINUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:48,271 - ERROR - Error fetching volume for KMNOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:48,372 - ERROR - Error fetching volume for CGPTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:48,475 - ERROR - Error fetching volume for HIVEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:48,588 - ERROR - Error fetching volume for DEXEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:48,688 - ERROR - Error fetching volume for BTCUSDT_250627: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:48,790 - ERROR - Error fetching volume for ETHUSDT_250627: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:48,890 - ERROR - Error fetching volume for PHAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:48,991 - ERROR - Error fetching volume for DFUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:49,091 - ERROR - Error fetching volume for GRIFFAINUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:49,192 - ERROR - Error fetching volume for AI16ZUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:49,292 - ERROR - Error fetching volume for ZEREBROUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:49,393 - ERROR - Error fetching volume for BIOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:49,493 - ERROR - Error fetching volume for COOKIEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:49,596 - ERROR - Error fetching volume for ALCHUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:49,697 - ERROR - Error fetching volume for SWARMSUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:49,803 - ERROR - Error fetching volume for SONICUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:49,903 - ERROR - Error fetching volume for DUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:50,005 - ERROR - Error fetching volume for PROMUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:50,106 - ERROR - Error fetching volume for SUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:50,209 - ERROR - Error fetching volume for SOLVUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:50,309 - ERROR - Error fetching volume for ARCUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:50,409 - ERROR - Error fetching volume for AVAAIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:50,510 - ERROR - Error fetching volume for TRUMPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:50,610 - ERROR - Error fetching volume for MELANIAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:50,713 - ERROR - Error fetching volume for VTHOUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:50,813 - ERROR - Error fetching volume for ANIMEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:50,915 - ERROR - Error fetching volume for VINEUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:51,017 - ERROR - Error fetching volume for PIPPINUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:51,117 - ERROR - Error fetching volume for VVVUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:51,218 - ERROR - Error fetching volume for BERAUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:51,320 - ERROR - Error fetching volume for TSTUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:51,420 - ERROR - Error fetching volume for LAYERUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:51,522 - ERROR - Error fetching volume for HEIUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:51,636 - ERROR - Error fetching volume for B3USDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:51,736 - ERROR - Error fetching volume for IPUSDT: 'binance' object has no attribute 'fapiPublic_get_ticker_24hr'
+2025-02-13 21:50:51,837 - INFO - After liquidity filter: 0
+2025-02-13 21:50:51,838 - ERROR - No markets passed liquidity filter
+2025-02-13 21:51:20,802 - INFO - Starting pairs trading analysis
+2025-02-13 21:51:23,938 - INFO - Initial markets: 367
+2025-02-13 21:57:41,814 - INFO - After liquidity filter: 367
+2025-02-13 22:05:41,994 - INFO - Aligned data shape: (337, 0)
+2025-02-13 22:05:41,996 - ERROR - Insufficient data for pair analysis
+2025-02-13 22:08:36,466 - INFO - Starting pairs trading analysis
+2025-02-13 22:08:40,888 - INFO - Initial markets: 367
+2025-02-13 22:15:00,774 - INFO - After liquidity filter: 367
+2025-02-13 22:24:24,099 - INFO - Aligned data shape: (336, 361)
+2025-02-13 22:50:00,945 - INFO - Saved 20 pairs to pairs_to_trade.csv
+2025-02-13 23:07:06,753 - INFO - Starting pairs trading analysis
+2025-02-13 23:07:09,110 - INFO - Initial markets: 367
+2025-02-13 23:07:09,111 - INFO - After liquidity filter: 0
+2025-02-13 23:07:09,111 - ERROR - No markets passed liquidity filter
+2025-02-13 23:07:54,366 - INFO - Starting pairs trading analysis
+2025-02-13 23:07:59,064 - INFO - Initial markets: 367
+2025-02-13 23:07:59,065 - INFO - After liquidity filter: 0
+2025-02-13 23:07:59,066 - ERROR - No markets passed liquidity filter
+2025-02-13 23:08:16,604 - INFO - Starting pairs trading analysis
+2025-02-13 23:08:21,081 - INFO - Initial markets: 367
+2025-02-13 23:08:21,082 - INFO - After liquidity filter: 0
+2025-02-13 23:08:21,082 - ERROR - No markets passed liquidity filter
+2025-02-13 23:14:34,755 - INFO - Starting pairs trading analysis
+2025-02-13 23:17:18,920 - INFO - Starting pairs trading analysis
+2025-02-13 23:17:22,293 - ERROR - Error fetching open interest for BTCUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:23,180 - ERROR - Error fetching open interest for ETHUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:24,134 - ERROR - Error fetching open interest for BCHUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:24,540 - ERROR - Error fetching open interest for XRPUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:25,033 - ERROR - Error fetching open interest for EOSUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:25,448 - ERROR - Error fetching open interest for LTCUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:25,863 - ERROR - Error fetching open interest for TRXUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:27,059 - ERROR - Error fetching open interest for ETCUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:27,491 - ERROR - Error fetching open interest for LINKUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:27,901 - ERROR - Error fetching open interest for XLMUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:28,320 - ERROR - Error fetching open interest for ADAUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:29,263 - ERROR - Error fetching open interest for XMRUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:29,714 - ERROR - Error fetching open interest for DASHUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:30,114 - ERROR - Error fetching open interest for ZECUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:30,540 - ERROR - Error fetching open interest for XTZUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:31,364 - ERROR - Error fetching open interest for BNBUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:31,789 - ERROR - Error fetching open interest for ATOMUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:32,205 - ERROR - Error fetching open interest for ONTUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:33,144 - ERROR - Error fetching open interest for IOTAUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:34,179 - ERROR - Error fetching open interest for BATUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:34,590 - ERROR - Error fetching open interest for VETUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:35,008 - ERROR - Error fetching open interest for NEOUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:17:35,430 - ERROR - Error fetching open interest for QTUMUSDT: 'binance' object has no attribute 'fapiPublic_getOpenInterest'
+2025-02-13 23:20:20,822 - INFO - Starting pairs trading analysis
+2025-02-13 23:20:25,791 - INFO - Valid market found: BTCUSDT with OI: 78514.167
+2025-02-13 23:20:26,324 - INFO - Valid market found: ETHUSDT with OI: 1253070.445
+2025-02-13 23:20:26,917 - INFO - Valid market found: BCHUSDT with OI: 244860.638
+2025-02-13 23:20:27,663 - INFO - Valid market found: XRPUSDT with OI: 235839754.9
+2025-02-13 23:20:28,271 - INFO - Valid market found: EOSUSDT with OI: 37116134.4
+2025-02-13 23:20:28,864 - INFO - Valid market found: LTCUSDT with OI: 1490172.792
+2025-02-13 23:20:29,412 - INFO - Valid market found: TRXUSDT with OI: 221326330.0
+2025-02-13 23:20:29,919 - INFO - Valid market found: ETCUSDT with OI: 1427141.49
+2025-02-13 23:20:30,505 - INFO - Valid market found: LINKUSDT with OI: 4278739.12
+2025-02-13 23:20:31,116 - INFO - Valid market found: XLMUSDT with OI: 118872895.0
+2025-02-13 23:20:31,670 - INFO - Valid market found: ADAUSDT with OI: 151044578.0
+2025-02-13 23:20:32,177 - INFO - Valid market found: XMRUSDT with OI: 32388.405
+2025-02-13 23:20:32,862 - INFO - Valid market found: DASHUSDT with OI: 167199.622
+2025-02-13 23:20:33,472 - INFO - Valid market found: ZECUSDT with OI: 157553.351
+2025-02-13 23:20:33,983 - INFO - Valid market found: XTZUSDT with OI: 9857266.9
+2025-02-13 23:20:34,487 - INFO - Valid market found: BNBUSDT with OI: 548899.0
+2025-02-13 23:20:34,987 - INFO - Valid market found: ATOMUSDT with OI: 6493192.18
+2025-02-13 23:20:35,499 - INFO - Valid market found: ONTUSDT with OI: 22513107.7
+2025-02-13 23:20:36,021 - INFO - Valid market found: IOTAUSDT with OI: 31569145.5
+2025-02-13 23:20:36,538 - INFO - Valid market found: BATUSDT with OI: 17284397.2
+2025-02-13 23:20:37,041 - INFO - Valid market found: VETUSDT with OI: 363983210.0
+2025-02-13 23:20:37,782 - INFO - Valid market found: NEOUSDT with OI: 746713.01
+2025-02-13 23:20:38,485 - INFO - Valid market found: QTUMUSDT with OI: 3398889.2
+2025-02-13 23:20:39,243 - INFO - Valid market found: IOSTUSDT with OI: 312033194.0
+2025-02-13 23:20:39,759 - INFO - Valid market found: THETAUSDT with OI: 6360557.6
+2025-02-13 23:20:40,333 - INFO - Valid market found: ALGOUSDT with OI: 48869429.0
+2025-02-13 23:20:40,851 - INFO - Valid market found: ZILUSDT with OI: 249108179.0
+2025-02-13 23:20:41,360 - INFO - Valid market found: KNCUSDT with OI: 6125930.0
+2025-02-13 23:20:41,952 - INFO - Valid market found: ZRXUSDT with OI: 13819508.1
+2025-02-13 23:20:42,487 - INFO - Valid market found: COMPUSDT with OI: 162125.142
+2025-02-13 23:20:43,043 - INFO - Valid market found: DOGEUSDT with OI: 1676151553.0
+2025-02-13 23:20:43,647 - INFO - Valid market found: SXPUSDT with OI: 15732427.7
+2025-02-13 23:20:44,164 - INFO - Valid market found: KAVAUSDT with OI: 31508219.1
+2025-02-13 23:20:44,917 - INFO - Valid market found: BANDUSDT with OI: 2182857.7
+2025-02-13 23:20:45,424 - INFO - Valid market found: RLCUSDT with OI: 1324597.0
+2025-02-13 23:20:46,027 - INFO - Valid market found: MKRUSDT with OI: 31897.607
+2025-02-13 23:20:46,989 - INFO - Valid market found: SNXUSDT with OI: 6602443.2
+2025-02-13 23:20:47,541 - INFO - Valid market found: DOTUSDT with OI: 10357750.9
+2025-02-13 23:20:48,142 - INFO - Valid market found: DEFIUSDT with OI: 1402.872
+2025-02-13 23:20:48,699 - INFO - Valid market found: YFIUSDT with OI: 846.395
+2025-02-13 23:20:49,360 - INFO - Valid market found: BALUSDT with OI: 1336338.2
+2025-02-13 23:20:49,858 - INFO - Valid market found: CRVUSDT with OI: 58648838.2
+2025-02-13 23:20:50,470 - INFO - Valid market found: TRBUSDT with OI: 327578.6
+2025-02-13 23:20:51,026 - INFO - Valid market found: RUNEUSDT with OI: 14905698.0
+2025-02-13 23:20:51,597 - INFO - Valid market found: SUSHIUSDT with OI: 8047207.0
+2025-02-13 23:20:52,191 - INFO - Valid market found: EGLDUSDT with OI: 260057.1
+2025-02-13 23:20:52,777 - INFO - Valid market found: SOLUSDT with OI: 6015014.0
+2025-02-13 23:20:53,365 - INFO - Valid market found: ICXUSDT with OI: 16798476.0
+2025-02-13 23:20:53,877 - INFO - Valid market found: STORJUSDT with OI: 10480536.0
+2025-02-13 23:20:54,553 - INFO - Valid market found: UNIUSDT with OI: 4991960.0
+2025-02-13 23:20:55,068 - INFO - Valid market found: AVAXUSDT with OI: 2967487.0
+2025-02-13 23:20:55,684 - INFO - Valid market found: ENJUSDT with OI: 25651515.0
+2025-02-13 23:20:56,306 - INFO - Valid market found: FLMUSDT with OI: 69671897.0
+2025-02-13 23:20:56,816 - INFO - Valid market found: KSMUSDT with OI: 224273.5
+2025-02-13 23:20:57,370 - INFO - Valid market found: NEARUSDT with OI: 14150256.0
+2025-02-13 23:20:57,959 - INFO - Valid market found: AAVEUSDT with OI: 249412.1
+2025-02-13 23:20:58,562 - INFO - Valid market found: FILUSDT with OI: 12720041.0
+2025-02-13 23:20:59,084 - INFO - Valid market found: RSRUSDT with OI: 882510571.0
+2025-02-13 23:20:59,716 - INFO - Valid market found: LRCUSDT with OI: 25102055.0
+2025-02-13 23:21:00,222 - INFO - Valid market found: BELUSDT with OI: 11899940.0
+2025-02-13 23:21:00,821 - INFO - Valid market found: AXSUSDT with OI: 2975795.0
+2025-02-13 23:21:01,447 - INFO - Valid market found: ALPHAUSDT with OI: 36570137.0
+2025-02-13 23:21:02,066 - INFO - Valid market found: ZENUSDT with OI: 996732.5
+2025-02-13 23:21:02,578 - INFO - Valid market found: SKLUSDT with OI: 92408866.0
+2025-02-13 23:21:03,082 - INFO - Valid market found: GRTUSDT with OI: 63026009.0
+2025-02-13 23:21:03,587 - INFO - Valid market found: 1INCHUSDT with OI: 22145120.0
+2025-02-13 23:21:04,211 - INFO - Valid market found: CHZUSDT with OI: 169677573.0
+2025-02-13 23:21:04,963 - INFO - Valid market found: SANDUSDT with OI: 54586212.0
+2025-02-13 23:21:05,422 - INFO - Valid market found: ANKRUSDT with OI: 130670902.0
+2025-02-13 23:21:05,929 - INFO - Valid market found: RVNUSDT with OI: 187946911.0
+2025-02-13 23:21:06,444 - INFO - Valid market found: SFPUSDT with OI: 6779348.0
+2025-02-13 23:21:06,986 - INFO - Valid market found: COTIUSDT with OI: 40112534.0
+2025-02-13 23:21:07,488 - INFO - Valid market found: CHRUSDT with OI: 22405334.0
+2025-02-13 23:21:07,998 - INFO - Valid market found: MANAUSDT with OI: 26943508.0
+2025-02-13 23:21:08,549 - INFO - Valid market found: ALICEUSDT with OI: 4661837.0
+2025-02-13 23:21:09,061 - INFO - Valid market found: HBARUSDT with OI: 162246203.0
+2025-02-13 23:21:09,720 - INFO - Valid market found: ONEUSDT with OI: 264829672.0
+2025-02-13 23:21:10,231 - INFO - Valid market found: LINAUSDT with OI: 983275914.0
+2025-02-13 23:21:10,745 - INFO - Valid market found: STMXUSDT with OI: 450839107.0
+2025-02-13 23:21:11,358 - INFO - Valid market found: DENTUSDT with OI: 3434212134.0
+2025-02-13 23:21:11,824 - INFO - Valid market found: CELRUSDT with OI: 203294307.0
+2025-02-13 23:21:12,426 - INFO - Valid market found: HOTUSDT with OI: 1986070485.0
+2025-02-13 23:21:12,927 - INFO - Valid market found: MTLUSDT with OI: 2226380.0
+2025-02-13 23:21:13,441 - INFO - Valid market found: OGNUSDT with OI: 31983503.0
+2025-02-13 23:21:14,035 - INFO - Valid market found: NKNUSDT with OI: 26533931.0
+2025-02-13 23:21:14,563 - INFO - Valid market found: 1000SHIBUSDT with OI: 2848174995.0
+2025-02-13 23:21:15,066 - INFO - Valid market found: BAKEUSDT with OI: 72727468.0
+2025-02-13 23:21:15,761 - INFO - Valid market found: GTCUSDT with OI: 8657268.9
+2025-02-13 23:21:16,387 - INFO - Valid market found: BTCDOMUSDT with OI: 3260.874
+2025-02-13 23:21:17,087 - INFO - Valid market found: IOTXUSDT with OI: 192239952.0
+2025-02-13 23:21:17,737 - INFO - Valid market found: C98USDT with OI: 27631261.0
+2025-02-13 23:21:18,321 - INFO - Valid market found: MASKUSDT with OI: 17388530.0
+2025-02-13 23:21:18,916 - INFO - Valid market found: ATAUSDT with OI: 31930413.0
+2025-02-13 23:21:19,441 - INFO - Valid market found: DYDXUSDT with OI: 22697515.0
+2025-02-13 23:21:20,063 - INFO - Valid market found: 1000XECUSDT with OI: 57916973.0
+2025-02-13 23:21:20,884 - INFO - Valid market found: GALAUSDT with OI: 1044844866.0
+2025-02-13 23:21:21,375 - INFO - Valid market found: CELOUSDT with OI: 12436731.8
+2025-02-13 23:21:21,902 - INFO - Valid market found: ARUSDT with OI: 1504766.8
+2025-02-13 23:21:22,418 - INFO - Valid market found: ARPAUSDT with OI: 84996608.0
+2025-02-13 23:21:22,936 - INFO - Valid market found: CTSIUSDT with OI: 34619052.0
+2025-02-13 23:21:23,442 - INFO - Valid market found: LPTUSDT with OI: 699273.5
+2025-02-13 23:21:23,954 - INFO - Valid market found: ENSUSDT with OI: 512665.3
+2025-02-13 23:21:24,491 - INFO - Valid market found: PEOPLEUSDT with OI: 457300348.0
+2025-02-13 23:21:24,990 - INFO - Valid market found: ROSEUSDT with OI: 98491912.0
+2025-02-13 23:21:25,517 - INFO - Valid market found: DUSKUSDT with OI: 16797103.0
+2025-02-13 23:21:26,106 - INFO - Valid market found: FLOWUSDT with OI: 10819567.0
+2025-02-13 23:21:26,608 - INFO - Valid market found: IMXUSDT with OI: 9671971.0
+2025-02-13 23:21:27,127 - INFO - Valid market found: API3USDT with OI: 2789903.0
+2025-02-13 23:21:27,655 - INFO - Valid market found: GMTUSDT with OI: 192794262.0
+2025-02-13 23:21:28,157 - INFO - Valid market found: APEUSDT with OI: 18598713.0
+2025-02-13 23:21:28,737 - INFO - Valid market found: WOOUSDT with OI: 22745745.0
+2025-02-13 23:21:29,238 - INFO - Valid market found: JASMYUSDT with OI: 468512848.0
+2025-02-13 23:21:29,813 - INFO - Valid market found: OPUSDT with OI: 24605272.9
+2025-02-13 23:21:30,314 - INFO - Valid market found: INJUSDT with OI: 1556257.3
+2025-02-13 23:21:30,917 - INFO - Valid market found: STGUSDT with OI: 9780191.0
+2025-02-13 23:21:31,429 - INFO - Valid market found: SPELLUSDT with OI: 6091203099.0
+2025-02-13 23:21:31,938 - INFO - Valid market found: 1000LUNCUSDT with OI: 135145148.0
+2025-02-13 23:21:32,455 - INFO - Valid market found: LUNA2USDT with OI: 15775338.0
+2025-02-13 23:21:32,970 - INFO - Valid market found: LDOUSDT with OI: 29649503.0
+2025-02-13 23:21:33,535 - INFO - Valid market found: ICPUSDT with OI: 1816254.0
+2025-02-13 23:21:34,121 - INFO - Valid market found: APTUSDT with OI: 7232371.5
+2025-02-13 23:21:34,625 - INFO - Valid market found: QNTUSDT with OI: 30356.4
+2025-02-13 23:21:35,126 - INFO - Valid market found: FETUSDT with OI: 32028105.0
+2025-02-13 23:21:35,632 - INFO - Valid market found: FXSUSDT with OI: 1129435.0
+2025-02-13 23:21:36,167 - INFO - Valid market found: HOOKUSDT with OI: 10927741.1
+2025-02-13 23:21:36,851 - INFO - Valid market found: MAGICUSDT with OI: 11676260.2
+2025-02-13 23:21:37,361 - INFO - Valid market found: TUSDT with OI: 86686589.0
+2025-02-13 23:21:37,897 - INFO - Valid market found: HIGHUSDT with OI: 2851712.7
+2025-02-13 23:21:38,406 - INFO - Valid market found: MINAUSDT with OI: 14930911.0
+2025-02-13 23:21:39,016 - INFO - Valid market found: ASTRUSDT with OI: 61921570.0
+2025-02-13 23:21:39,825 - INFO - Valid market found: PHBUSDT with OI: 2543941.0
+2025-02-13 23:21:40,338 - INFO - Valid market found: GMXUSDT with OI: 308811.03
+2025-02-13 23:21:40,841 - INFO - Valid market found: CFXUSDT with OI: 91145623.0
+2025-02-13 23:21:41,352 - INFO - Valid market found: STXUSDT with OI: 13784143.0
+2025-02-13 23:21:41,864 - INFO - Valid market found: BNXUSDT with OI: 158351441.4
+2025-02-13 23:21:42,367 - INFO - Valid market found: ACHUSDT with OI: 261760633.0
+2025-02-13 23:21:42,901 - INFO - Valid market found: SSVUSDT with OI: 446649.8
+2025-02-13 23:21:43,410 - INFO - Valid market found: CKBUSDT with OI: 542180692.0
+2025-02-13 23:21:43,912 - INFO - Valid market found: PERPUSDT with OI: 3999608.7
+2025-02-13 23:21:44,434 - INFO - Valid market found: TRUUSDT with OI: 48300358.0
+2025-02-13 23:21:44,946 - INFO - Valid market found: LQTYUSDT with OI: 2435610.7
+2025-02-13 23:21:45,449 - INFO - Valid market found: USDCUSDT with OI: 6799582.0
+2025-02-13 23:21:46,047 - INFO - Valid market found: IDUSDT with OI: 9420436.0
+2025-02-13 23:21:46,584 - INFO - Valid market found: ARBUSDT with OI: 65039302.8
+2025-02-13 23:21:47,096 - INFO - Valid market found: JOEUSDT with OI: 8817094.0
+2025-02-13 23:21:47,596 - INFO - Valid market found: TLMUSDT with OI: 218580184.0
+2025-02-13 23:21:48,220 - INFO - Valid market found: AMBUSDT with OI: 455124789.0
+2025-02-13 23:21:48,736 - INFO - Valid market found: LEVERUSDT with OI: 2150768457.0
+2025-02-13 23:21:49,243 - INFO - Valid market found: RDNTUSDT with OI: 70268958.0
+2025-02-13 23:21:49,758 - INFO - Valid market found: HFTUSDT with OI: 16824521.0
+2025-02-13 23:21:50,258 - INFO - Valid market found: XVSUSDT with OI: 747063.7
+2025-02-13 23:21:50,785 - INFO - Valid market found: BLURUSDT with OI: 37544039.0
+2025-02-13 23:21:51,299 - INFO - Valid market found: EDUUSDT with OI: 12876271.0
+2025-02-13 23:21:51,812 - INFO - Valid market found: SUIUSDT with OI: 46773855.3
+2025-02-13 23:21:52,325 - INFO - Valid market found: 1000PEPEUSDT with OI: 11328180632.0
+2025-02-13 23:21:52,838 - INFO - Valid market found: 1000FLOKIUSDT with OI: 161003122.0
+2025-02-13 23:21:53,345 - INFO - Valid market found: UMAUSDT with OI: 1392882.0
+2025-02-13 23:21:53,962 - INFO - Valid market found: COMBOUSDT with OI: 5855221.7
+2025-02-13 23:21:54,475 - INFO - Valid market found: NMRUSDT with OI: 163307.4
+2025-02-13 23:21:55,208 - INFO - Valid market found: MAVUSDT with OI: 23251945.0
+2025-02-13 23:21:55,819 - INFO - Valid market found: XVGUSDT with OI: 482173715.0
+2025-02-13 23:21:56,322 - INFO - Valid market found: WLDUSDT with OI: 45615852.0
+2025-02-13 23:21:56,824 - INFO - Valid market found: PENDLEUSDT with OI: 4341320.0
+2025-02-13 23:21:57,489 - INFO - Valid market found: ARKMUSDT with OI: 20906278.0
+2025-02-13 23:21:58,083 - INFO - Valid market found: AGLDUSDT with OI: 4798114.0
+2025-02-13 23:21:58,646 - INFO - Valid market found: YGGUSDT with OI: 13741231.0
+2025-02-13 23:21:59,186 - INFO - Valid market found: DODOXUSDT with OI: 22011183.0
+2025-02-13 23:21:59,708 - INFO - Valid market found: BNTUSDT with OI: 2951789.0
+2025-02-13 23:22:00,208 - INFO - Valid market found: OXTUSDT with OI: 21137834.0
+2025-02-13 23:22:00,713 - INFO - Valid market found: SEIUSDT with OI: 99180627.0
+2025-02-13 23:22:01,244 - INFO - Valid market found: CYBERUSDT with OI: 1557191.4
+2025-02-13 23:22:01,943 - INFO - Valid market found: HIFIUSDT with OI: 5318147.0
+2025-02-13 23:22:02,576 - INFO - Valid market found: ARKUSDT with OI: 4299517.0
+2025-02-13 23:22:03,116 - INFO - Valid market found: BICOUSDT with OI: 12636924.0
+2025-02-13 23:22:03,789 - INFO - Valid market found: BIGTIMEUSDT with OI: 66858955.0
+2025-02-13 23:22:04,417 - INFO - Valid market found: WAXPUSDT with OI: 56703878.0
+2025-02-13 23:22:04,889 - INFO - Valid market found: BSVUSDT with OI: 79712.3
+2025-02-13 23:22:05,521 - INFO - Valid market found: RIFUSDT with OI: 38269109.0
+2025-02-13 23:22:06,079 - INFO - Valid market found: POLYXUSDT with OI: 9972552.0
+2025-02-13 23:22:06,653 - INFO - Valid market found: GASUSDT with OI: 933566.1
+2025-02-13 23:22:07,210 - INFO - Valid market found: POWRUSDT with OI: 11140927.0
+2025-02-13 23:22:07,775 - INFO - Valid market found: TIAUSDT with OI: 9319489.0
+2025-02-13 23:22:08,278 - INFO - Valid market found: CAKEUSDT with OI: 16003037.0
+2025-02-13 23:22:08,832 - INFO - Valid market found: MEMEUSDT with OI: 1461307221.0
+2025-02-13 23:22:09,428 - INFO - Valid market found: TWTUSDT with OI: 3326785.0
+2025-02-13 23:22:10,031 - INFO - Valid market found: TOKENUSDT with OI: 105623874.0
+2025-02-13 23:22:10,557 - INFO - Valid market found: ORDIUSDT with OI: 2608725.5
+2025-02-13 23:22:11,183 - INFO - Valid market found: STEEMUSDT with OI: 17594651.0
+2025-02-13 23:22:11,776 - INFO - Valid market found: BADGERUSDT with OI: 1426078.0
+2025-02-13 23:22:12,393 - INFO - Valid market found: ILVUSDT with OI: 127303.8
+2025-02-13 23:22:12,915 - INFO - Valid market found: NTRNUSDT with OI: 9888046.0
+2025-02-13 23:22:13,566 - INFO - Valid market found: KASUSDT with OI: 89774867.0
+2025-02-13 23:22:14,176 - INFO - Valid market found: BEAMXUSDT with OI: 458789613.0
+2025-02-13 23:22:14,797 - INFO - Valid market found: 1000BONKUSDT with OI: 1262754432.0
+2025-02-13 23:22:15,387 - INFO - Valid market found: PYTHUSDT with OI: 42555550.0
+2025-02-13 23:22:16,075 - INFO - Valid market found: SUPERUSDT with OI: 4596315.0
+2025-02-13 23:22:16,636 - INFO - Valid market found: USTCUSDT with OI: 201413559.0
+2025-02-13 23:22:17,240 - INFO - Valid market found: ONGUSDT with OI: 5872930.0
+2025-02-13 23:22:17,816 - INFO - Valid market found: ETHWUSDT with OI: 1041699.0
+2025-02-13 23:22:18,476 - INFO - Valid market found: JTOUSDT with OI: 4220490.0
+2025-02-13 23:22:19,264 - INFO - Valid market found: 1000SATSUSDT with OI: 403935184501.0
+2025-02-13 23:22:19,854 - INFO - Valid market found: AUCTIONUSDT with OI: 649950.85
+2025-02-13 23:22:20,419 - INFO - Valid market found: 1000RATSUSDT with OI: 258273237.0
+2025-02-13 23:22:21,090 - INFO - Valid market found: ACEUSDT with OI: 2210446.75
+2025-02-13 23:22:21,704 - INFO - Valid market found: MOVRUSDT with OI: 194563.47
+2025-02-13 23:22:22,290 - INFO - Valid market found: NFPUSDT with OI: 22953835.7
+2025-02-13 23:22:22,835 - INFO - Valid market found: AIUSDT with OI: 15478265.0
+2025-02-13 23:22:23,399 - INFO - Valid market found: XAIUSDT with OI: 51508499.0
+2025-02-13 23:22:23,958 - INFO - Valid market found: WIFUSDT with OI: 99595592.2
+2025-02-13 23:22:24,487 - INFO - Valid market found: MANTAUSDT with OI: 10019820.9
+2025-02-13 23:22:25,109 - INFO - Valid market found: ONDOUSDT with OI: 61744500.5
+2025-02-13 23:22:25,595 - INFO - Valid market found: LSKUSDT with OI: 2246057.0
+2025-02-13 23:22:26,120 - INFO - Valid market found: ALTUSDT with OI: 110018701.0
+2025-02-13 23:22:26,655 - INFO - Valid market found: JUPUSDT with OI: 51007018.0
+2025-02-13 23:22:27,240 - INFO - Valid market found: ZETAUSDT with OI: 9164973.0
+2025-02-13 23:22:27,866 - INFO - Valid market found: RONINUSDT with OI: 2658513.4
+2025-02-13 23:22:28,410 - INFO - Valid market found: DYMUSDT with OI: 6724152.1
+2025-02-13 23:22:28,914 - INFO - Valid market found: OMUSDT with OI: 51855456.7
+2025-02-13 23:22:29,490 - INFO - Valid market found: PIXELUSDT with OI: 53126564.0
+2025-02-13 23:22:29,994 - INFO - Valid market found: STRKUSDT with OI: 42439950.0
+2025-02-13 23:22:30,505 - INFO - Valid market found: GLMUSDT with OI: 9155585.0
+2025-02-13 23:22:31,008 - INFO - Valid market found: PORTALUSDT with OI: 19023289.4
+2025-02-13 23:22:31,537 - INFO - Valid market found: TONUSDT with OI: 8667391.2
+2025-02-13 23:22:32,050 - INFO - Valid market found: AXLUSDT with OI: 5112909.0
+2025-02-13 23:22:32,554 - INFO - Valid market found: MYROUSDT with OI: 119410233.0
+2025-02-13 23:22:33,077 - INFO - Valid market found: METISUSDT with OI: 153841.4
+2025-02-13 23:22:33,688 - INFO - Valid market found: AEVOUSDT with OI: 30424377.5
+2025-02-13 23:22:34,197 - INFO - Valid market found: VANRYUSDT with OI: 60174656.0
+2025-02-13 23:22:34,709 - INFO - Valid market found: BOMEUSDT with OI: 6175637593.0
+2025-02-13 23:22:35,215 - INFO - Valid market found: ETHFIUSDT with OI: 13817225.5
+2025-02-13 23:22:35,721 - INFO - Valid market found: ENAUSDT with OI: 304396676.0
+2025-02-13 23:22:36,227 - INFO - Valid market found: WUSDT with OI: 66593965.7
+2025-02-13 23:22:36,762 - INFO - Valid market found: TNSRUSDT with OI: 10803029.0
+2025-02-13 23:22:37,311 - INFO - Valid market found: SAGAUSDT with OI: 11480631.9
+2025-02-13 23:22:37,893 - INFO - Valid market found: TAOUSDT with OI: 110464.063
+2025-02-13 23:22:38,398 - INFO - Valid market found: OMNIUSDT with OI: 547696.05
+2025-02-13 23:22:38,907 - INFO - Valid market found: REZUSDT with OI: 192526235.0
+2025-02-13 23:22:39,527 - INFO - Valid market found: BBUSDT with OI: 25320883.0
+2025-02-13 23:22:40,035 - INFO - Valid market found: NOTUSDT with OI: 4060377384.0
+2025-02-13 23:22:40,649 - INFO - Valid market found: TURBOUSDT with OI: 1516719969.0
+2025-02-13 23:22:41,162 - INFO - Valid market found: IOUSDT with OI: 10618640.3
+2025-02-13 23:22:41,744 - INFO - Valid market found: ZKUSDT with OI: 86689455.0
+2025-02-13 23:22:42,299 - INFO - Valid market found: MEWUSDT with OI: 1048164983.0
+2025-02-13 23:22:43,139 - INFO - Valid market found: LISTAUSDT with OI: 51741359.0
+2025-02-13 23:22:43,699 - INFO - Valid market found: ZROUSDT with OI: 4267817.1
+2025-02-13 23:22:44,201 - INFO - Valid market found: RENDERUSDT with OI: 3374917.7
+2025-02-13 23:22:44,703 - INFO - Valid market found: BANANAUSDT with OI: 122837.4
+2025-02-13 23:22:45,210 - INFO - Valid market found: RAREUSDT with OI: 25903179.0
+2025-02-13 23:22:45,711 - INFO - Valid market found: GUSDT with OI: 89273389.0
+2025-02-13 23:22:46,212 - INFO - Valid market found: SYNUSDT with OI: 6510549.0
+2025-02-13 23:22:46,792 - INFO - Valid market found: SYSUSDT with OI: 19937107.0
+2025-02-13 23:22:47,303 - INFO - Valid market found: VOXELUSDT with OI: 18018411.0
+2025-02-13 23:22:47,815 - INFO - Valid market found: BRETTUSDT with OI: 102982991.0
+2025-02-13 23:22:48,334 - INFO - Valid market found: ALPACAUSDT with OI: 35145410.0
+2025-02-13 23:22:48,833 - INFO - Valid market found: POPCATUSDT with OI: 63863577.0
+2025-02-13 23:22:49,351 - INFO - Valid market found: SUNUSDT with OI: 86235388.0
+2025-02-13 23:22:49,863 - INFO - Valid market found: VIDTUSDT with OI: 99619288.0
+2025-02-13 23:22:50,488 - INFO - Valid market found: NULSUSDT with OI: 5524304.0
+2025-02-13 23:22:50,997 - INFO - Valid market found: DOGSUSDT with OI: 37752685996.0
+2025-02-13 23:22:51,605 - INFO - Valid market found: MBOXUSDT with OI: 15322722.0
+2025-02-13 23:22:52,122 - INFO - Valid market found: CHESSUSDT with OI: 21622304.0
+2025-02-13 23:22:52,670 - INFO - Valid market found: FLUXUSDT with OI: 2869325.0
+2025-02-13 23:22:53,349 - INFO - Valid market found: BSWUSDT with OI: 79018741.0
+2025-02-13 23:22:54,048 - INFO - Valid market found: QUICKUSDT with OI: 42188373.0
+2025-02-13 23:22:54,562 - INFO - Valid market found: NEIROETHUSDT with OI: 387497558.0
+2025-02-13 23:22:55,436 - INFO - Valid market found: RPLUSDT with OI: 526128.9
+2025-02-13 23:22:55,942 - INFO - Valid market found: AERGOUSDT with OI: 18731210.0
+2025-02-13 23:22:56,520 - INFO - Valid market found: POLUSDT with OI: 57548720.0
+2025-02-13 23:22:57,055 - INFO - Valid market found: UXLINKUSDT with OI: 14731925.0
+2025-02-13 23:22:57,648 - INFO - Valid market found: 1MBABYDOGEUSDT with OI: 5303729712.0
+2025-02-13 23:22:58,152 - INFO - Valid market found: NEIROUSDT with OI: 98754684441.0
+2025-02-13 23:22:58,655 - INFO - Valid market found: KDAUSDT with OI: 3429960.0
+2025-02-13 23:22:59,157 - INFO - Valid market found: FIDAUSDT with OI: 19545254.0
+2025-02-13 23:22:59,674 - INFO - Valid market found: FIOUSDT with OI: 58292130.0
+2025-02-13 23:23:00,214 - INFO - Valid market found: CATIUSDT with OI: 26038064.0
+2025-02-13 23:23:00,735 - INFO - Valid market found: GHSTUSDT with OI: 3021565.0
+2025-02-13 23:23:01,245 - INFO - Valid market found: LOKAUSDT with OI: 8613982.0
+2025-02-13 23:23:01,848 - INFO - Valid market found: HMSTRUSDT with OI: 2962915897.0
+2025-02-13 23:23:02,433 - INFO - Valid market found: BTCUSDT_250328 with OI: 781.549
+2025-02-13 23:23:02,939 - INFO - Valid market found: ETHUSDT_250328 with OI: 12968.978
+2025-02-13 23:23:03,487 - INFO - Valid market found: REIUSDT with OI: 32018406.0
+2025-02-13 23:23:03,997 - INFO - Valid market found: COSUSDT with OI: 308783554.0
+2025-02-13 23:23:04,507 - INFO - Valid market found: EIGENUSDT with OI: 10054657.1
+2025-02-13 23:23:05,009 - INFO - Valid market found: DIAUSDT with OI: 2646364.0
+2025-02-13 23:23:05,509 - INFO - Valid market found: 1000CATUSDT with OI: 654367006.0
+2025-02-13 23:23:06,020 - INFO - Valid market found: SCRUSDT with OI: 16716640.0
+2025-02-13 23:23:06,523 - INFO - Valid market found: GOATUSDT with OI: 116083631.0
+2025-02-13 23:23:07,027 - INFO - Valid market found: MOODENGUSDT with OI: 145815638.0
+2025-02-13 23:23:07,584 - INFO - Valid market found: SAFEUSDT with OI: 3140054.0
+2025-02-13 23:23:08,093 - INFO - Valid market found: SANTOSUSDT with OI: 557893.5
+2025-02-13 23:23:08,596 - INFO - Valid market found: TROYUSDT with OI: 2640597014.0
+2025-02-13 23:23:09,127 - INFO - Valid market found: PONKEUSDT with OI: 12240962.0
+2025-02-13 23:23:09,628 - INFO - Valid market found: COWUSDT with OI: 19578526.0
+2025-02-13 23:23:10,191 - INFO - Valid market found: CETUSUSDT with OI: 28213421.0
+2025-02-13 23:23:10,694 - INFO - Valid market found: 1000000MOGUSDT with OI: 4418891.7
+2025-02-13 23:23:11,198 - INFO - Valid market found: GRASSUSDT with OI: 6918017.0
+2025-02-13 23:23:11,778 - INFO - Valid market found: DRIFTUSDT with OI: 3854958.0
+2025-02-13 23:23:12,288 - INFO - Valid market found: SWELLUSDT with OI: 126571904.0
+2025-02-13 23:23:12,805 - INFO - Valid market found: ACTUSDT with OI: 372875073.0
+2025-02-13 23:23:13,403 - INFO - Valid market found: PNUTUSDT with OI: 202706975.0
+2025-02-13 23:23:14,161 - INFO - Valid market found: HIPPOUSDT with OI: 1576360464.0
+2025-02-13 23:23:14,747 - INFO - Valid market found: 1000XUSDT with OI: 11353842.0
+2025-02-13 23:23:15,248 - INFO - Valid market found: DEGENUSDT with OI: 452358574.0
+2025-02-13 23:23:15,753 - INFO - Valid market found: BANUSDT with OI: 146753146.0
+2025-02-13 23:23:16,276 - INFO - Valid market found: AKTUSDT with OI: 625837.3
+2025-02-13 23:23:16,781 - INFO - Valid market found: SLERFUSDT with OI: 8527238.0
+2025-02-13 23:23:17,313 - INFO - Valid market found: SCRTUSDT with OI: 4832075.0
+2025-02-13 23:23:17,818 - INFO - Valid market found: 1000CHEEMSUSDT with OI: 22006353910.0
+2025-02-13 23:23:18,442 - INFO - Valid market found: 1000WHYUSDT with OI: 44404888278.0
+2025-02-13 23:23:18,949 - INFO - Valid market found: THEUSDT with OI: 21606125.1
+2025-02-13 23:23:19,539 - INFO - Valid market found: MORPHOUSDT with OI: 2627253.5
+2025-02-13 23:23:20,052 - INFO - Valid market found: CHILLGUYUSDT with OI: 211698792.0
+2025-02-13 23:23:20,627 - INFO - Valid market found: KAIAUSDT with OI: 24424051.0
+2025-02-13 23:23:21,146 - INFO - Valid market found: AEROUSDT with OI: 4943227.6
+2025-02-13 23:23:21,683 - INFO - Valid market found: ACXUSDT with OI: 7008252.6
+2025-02-13 23:23:22,186 - INFO - Valid market found: ORCAUSDT with OI: 1202606.9
+2025-02-13 23:23:22,743 - INFO - Valid market found: MOVEUSDT with OI: 31405379.0
+2025-02-13 23:23:23,312 - INFO - Valid market found: RAYSOLUSDT with OI: 1514947.7
+2025-02-13 23:23:23,861 - INFO - Valid market found: KOMAUSDT with OI: 96176912.0
+2025-02-13 23:23:24,551 - INFO - Valid market found: VIRTUALUSDT with OI: 17570191.3
+2025-02-13 23:23:25,053 - INFO - Valid market found: SPXUSDT with OI: 4611337.0
+2025-02-13 23:23:25,631 - INFO - Valid market found: MEUSDT with OI: 7604563.3
+2025-02-13 23:23:26,235 - INFO - Valid market found: AVAUSDT with OI: 2822056.9
+2025-02-13 23:23:26,802 - INFO - Valid market found: DEGOUSDT with OI: 1518347.8
+2025-02-13 23:23:27,362 - INFO - Valid market found: VELODROMEUSDT with OI: 22720315.0
+2025-02-13 23:23:27,988 - INFO - Valid market found: MOCAUSDT with OI: 31099216.0
+2025-02-13 23:23:28,533 - INFO - Valid market found: VANAUSDT with OI: 1291071.41
+2025-02-13 23:23:29,121 - INFO - Valid market found: PENGUUSDT with OI: 3576987706.0
+2025-02-13 23:23:29,669 - INFO - Valid market found: LUMIAUSDT with OI: 4659130.0
+2025-02-13 23:23:30,272 - INFO - Valid market found: USUALUSDT with OI: 77138336.0
+2025-02-13 23:23:31,149 - INFO - Valid market found: AIXBTUSDT with OI: 54726340.0
+2025-02-13 23:23:31,643 - INFO - Valid market found: FARTCOINUSDT with OI: 70890076.5
+2025-02-13 23:23:32,181 - INFO - Valid market found: KMNOUSDT with OI: 15712815.0
+2025-02-13 23:23:32,769 - INFO - Valid market found: CGPTUSDT with OI: 26457213.0
+2025-02-13 23:23:33,393 - INFO - Valid market found: HIVEUSDT with OI: 16883823.0
+2025-02-13 23:23:33,864 - INFO - Valid market found: DEXEUSDT with OI: 728946.33
+2025-02-13 23:23:34,413 - INFO - Valid market found: BTCUSDT_250627 with OI: 525.925
+2025-02-13 23:23:35,013 - INFO - Valid market found: ETHUSDT_250627 with OI: 6202.23
+2025-02-13 23:23:35,533 - INFO - Valid market found: PHAUSDT with OI: 33551507.0
+2025-02-13 23:23:36,048 - INFO - Valid market found: DFUSDT with OI: 103277208.0
+2025-02-13 23:23:36,645 - INFO - Valid market found: GRIFFAINUSDT with OI: 63340339.0
+2025-02-13 23:23:37,209 - INFO - Valid market found: AI16ZUSDT with OI: 57205410.2
+2025-02-13 23:23:37,732 - INFO - Valid market found: ZEREBROUSDT with OI: 187459321.0
+2025-02-13 23:23:38,299 - INFO - Valid market found: BIOUSDT with OI: 85545777.0
+2025-02-13 23:23:38,812 - INFO - Valid market found: COOKIEUSDT with OI: 41617415.0
+2025-02-13 23:23:39,326 - INFO - Valid market found: ALCHUSDT with OI: 197897741.0
+2025-02-13 23:23:39,837 - INFO - Valid market found: SWARMSUSDT with OI: 287024037.0
+2025-02-13 23:23:40,505 - INFO - Valid market found: SONICUSDT with OI: 13162327.9
+2025-02-13 23:23:41,078 - INFO - Valid market found: DUSDT with OI: 36140169.0
+2025-02-13 23:23:41,580 - INFO - Valid market found: PROMUSDT with OI: 479817.7
+2025-02-13 23:23:42,087 - INFO - Valid market found: SUSDT with OI: 23049672.0
+2025-02-13 23:23:42,602 - INFO - Valid market found: SOLVUSDT with OI: 199922488.0
+2025-02-13 23:23:43,183 - INFO - Valid market found: ARCUSDT with OI: 49794288.0
+2025-02-13 23:23:43,635 - INFO - Valid market found: AVAAIUSDT with OI: 73125685.0
+2025-02-13 23:23:44,137 - INFO - Valid market found: TRUMPUSDT with OI: 11870128.56
+2025-02-13 23:23:44,646 - INFO - Valid market found: MELANIAUSDT with OI: 12620370.89
+2025-02-13 23:23:45,148 - INFO - Valid market found: VTHOUSDT with OI: 1265106426.0
+2025-02-13 23:23:45,656 - INFO - Valid market found: ANIMEUSDT with OI: 219649748.0
+2025-02-13 23:23:46,160 - INFO - Valid market found: VINEUSDT with OI: 178265598.0
+2025-02-13 23:23:46,701 - INFO - Valid market found: PIPPINUSDT with OI: 118034202.0
+2025-02-13 23:23:47,443 - INFO - Valid market found: VVVUSDT with OI: 2136545.96
+2025-02-13 23:23:47,957 - INFO - Valid market found: BERAUSDT with OI: 6116902.5
+2025-02-13 23:23:48,473 - INFO - Valid market found: TSTUSDT with OI: 250018531.0
+2025-02-13 23:23:48,968 - INFO - Valid market found: LAYERUSDT with OI: 32085408.3
+2025-02-13 23:23:49,562 - INFO - Valid market found: HEIUSDT with OI: 6009425.0
+2025-02-13 23:23:50,075 - INFO - Valid market found: B3USDT with OI: 223806018.0
+2025-02-13 23:23:50,609 - INFO - Valid market found: IPUSDT with OI: 3844696.8
+2025-02-13 23:23:50,711 - INFO - Initial markets: 367
+2025-02-13 23:23:51,110 - INFO - Test OI for BTCUSDT: 78529.609
+2025-02-13 23:23:51,712 - INFO - Test OI for ETHUSDT: 1252415.793
+2025-02-13 23:23:52,218 - INFO - Test OI for BNBUSDT: 548947.04
+2025-02-13 23:23:53,351 - INFO - Added ETHUSDT with OI: 1252411.166
+2025-02-13 23:23:54,438 - INFO - Added XRPUSDT with OI: 235778762.9
+2025-02-13 23:23:54,940 - INFO - Added EOSUSDT with OI: 37131060.3
+2025-02-13 23:23:55,951 - INFO - Added LTCUSDT with OI: 1491275.777
+2025-02-13 23:23:56,527 - INFO - Added TRXUSDT with OI: 221414324.0
+2025-02-13 23:23:57,042 - INFO - Added ETCUSDT with OI: 1427050.76
+2025-02-13 23:23:57,552 - INFO - Added LINKUSDT with OI: 4278954.34
+2025-02-13 23:23:58,063 - INFO - Added XLMUSDT with OI: 118917381.0
+2025-02-13 23:23:58,576 - INFO - Added ADAUSDT with OI: 151142804.0
+2025-02-13 23:24:00,746 - INFO - Added XTZUSDT with OI: 9857271.2
+2025-02-13 23:24:01,850 - INFO - Added ATOMUSDT with OI: 6493997.48
+2025-02-13 23:24:02,369 - INFO - Added ONTUSDT with OI: 22522642.6
+2025-02-13 23:24:02,885 - INFO - Added IOTAUSDT with OI: 31562746.6
+2025-02-13 23:24:03,385 - INFO - Added BATUSDT with OI: 17285106.5
+2025-02-13 23:24:03,898 - INFO - Added VETUSDT with OI: 364108237.0
+2025-02-13 23:24:04,932 - INFO - Added QTUMUSDT with OI: 3402644.9
+2025-02-13 23:24:05,437 - INFO - Added IOSTUSDT with OI: 311955409.0
+2025-02-13 23:24:06,056 - INFO - Added THETAUSDT with OI: 6365577.3
+2025-02-13 23:24:06,574 - INFO - Added ALGOUSDT with OI: 48807912.7
+2025-02-13 23:24:07,091 - INFO - Added ZILUSDT with OI: 249149448.0
+2025-02-13 23:24:07,608 - INFO - Added KNCUSDT with OI: 6133868.0
+2025-02-13 23:24:08,113 - INFO - Added ZRXUSDT with OI: 13815063.9
+2025-02-13 23:24:09,118 - INFO - Added DOGEUSDT with OI: 1675923056.0
+2025-02-13 23:24:09,631 - INFO - Added SXPUSDT with OI: 15727690.7
+2025-02-13 23:24:10,145 - INFO - Added KAVAUSDT with OI: 31513296.0
+2025-02-13 23:24:10,658 - INFO - Added BANDUSDT with OI: 2182962.1
+2025-02-13 23:24:11,168 - INFO - Added RLCUSDT with OI: 1323549.3
+2025-02-13 23:24:12,295 - INFO - Added SNXUSDT with OI: 6613344.5
+2025-02-13 23:24:12,816 - INFO - Added DOTUSDT with OI: 10360658.0
+2025-02-13 23:24:14,338 - INFO - Added BALUSDT with OI: 1335941.6
+2025-02-13 23:24:14,838 - INFO - Added CRVUSDT with OI: 58679299.1
+2025-02-13 23:24:15,848 - INFO - Added RUNEUSDT with OI: 14896991.0
+2025-02-13 23:24:16,496 - INFO - Added SUSHIUSDT with OI: 8045429.0
+2025-02-13 23:24:17,627 - INFO - Added SOLUSDT with OI: 6015751.0
+2025-02-13 23:24:18,133 - INFO - Added ICXUSDT with OI: 16786058.0
+2025-02-13 23:24:18,638 - INFO - Added STORJUSDT with OI: 10480000.0
+2025-02-13 23:24:19,138 - INFO - Added UNIUSDT with OI: 4993198.0
+2025-02-13 23:24:19,667 - INFO - Added AVAXUSDT with OI: 2968161.0
+2025-02-13 23:24:20,171 - INFO - Added ENJUSDT with OI: 25647099.0
+2025-02-13 23:24:20,691 - INFO - Added FLMUSDT with OI: 69773850.0
+2025-02-13 23:24:21,720 - INFO - Added NEARUSDT with OI: 14150245.0
+2025-02-13 23:24:22,847 - INFO - Added FILUSDT with OI: 12721230.5
+2025-02-13 23:24:23,405 - INFO - Added RSRUSDT with OI: 882291142.0
+2025-02-13 23:24:23,912 - INFO - Added LRCUSDT with OI: 25130037.0
+2025-02-13 23:24:24,486 - INFO - Added BELUSDT with OI: 11895059.0
+2025-02-13 23:24:24,987 - INFO - Added AXSUSDT with OI: 2975818.0
+2025-02-13 23:24:25,491 - INFO - Added ALPHAUSDT with OI: 36611891.0
+2025-02-13 23:24:25,992 - INFO - Added ZENUSDT with OI: 1038604.8
+2025-02-13 23:24:26,502 - INFO - Added SKLUSDT with OI: 92475343.0
+2025-02-13 23:24:27,143 - INFO - Added GRTUSDT with OI: 63034208.0
+2025-02-13 23:24:27,684 - INFO - Added 1INCHUSDT with OI: 22146968.0
+2025-02-13 23:24:28,208 - INFO - Added CHZUSDT with OI: 169742091.0
+2025-02-13 23:24:28,728 - INFO - Added SANDUSDT with OI: 54567200.0
+2025-02-13 23:24:29,502 - INFO - Added ANKRUSDT with OI: 130700102.0
+2025-02-13 23:24:30,072 - INFO - Added RVNUSDT with OI: 187907668.0
+2025-02-13 23:24:30,580 - INFO - Added SFPUSDT with OI: 6778624.0
+2025-02-13 23:24:31,138 - INFO - Added COTIUSDT with OI: 40104874.0
+2025-02-13 23:24:31,673 - INFO - Added CHRUSDT with OI: 22411069.0
+2025-02-13 23:24:32,201 - INFO - Added MANAUSDT with OI: 26935968.0
+2025-02-13 23:24:32,721 - INFO - Added ALICEUSDT with OI: 4660964.0
+2025-02-13 23:24:33,362 - INFO - Added HBARUSDT with OI: 162031368.0
+2025-02-13 23:24:33,836 - INFO - Added ONEUSDT with OI: 264778358.0
+2025-02-13 23:24:34,467 - INFO - Added LINAUSDT with OI: 985440528.0
+2025-02-13 23:24:35,069 - INFO - Added STMXUSDT with OI: 450388169.0
+2025-02-13 23:24:35,711 - INFO - Added DENTUSDT with OI: 3435473350.0
+2025-02-13 23:24:36,259 - INFO - Added CELRUSDT with OI: 203288880.0
+2025-02-13 23:24:36,854 - INFO - Added HOTUSDT with OI: 1990441199.0
+2025-02-13 23:24:37,493 - INFO - Added MTLUSDT with OI: 2226568.0
+2025-02-13 23:24:38,136 - INFO - Added OGNUSDT with OI: 31994673.0
+2025-02-13 23:24:38,762 - INFO - Added NKNUSDT with OI: 26577426.0
+2025-02-13 23:24:39,364 - INFO - Added 1000SHIBUSDT with OI: 2847501932.0
+2025-02-13 23:24:40,243 - INFO - Added BAKEUSDT with OI: 72846728.0
+2025-02-13 23:24:40,887 - INFO - Added GTCUSDT with OI: 8670498.2
+2025-02-13 23:24:42,001 - INFO - Added IOTXUSDT with OI: 192212906.0
+2025-02-13 23:24:42,455 - INFO - Added C98USDT with OI: 27612599.0
+2025-02-13 23:24:43,017 - INFO - Added MASKUSDT with OI: 17390909.0
+2025-02-13 23:24:43,633 - INFO - Added ATAUSDT with OI: 31922946.0
+2025-02-13 23:24:44,177 - INFO - Added DYDXUSDT with OI: 22697780.6
+2025-02-13 23:24:44,690 - INFO - Added 1000XECUSDT with OI: 57909727.0
+2025-02-13 23:24:45,258 - INFO - Added GALAUSDT with OI: 1044324306.0
+2025-02-13 23:24:45,757 - INFO - Added CELOUSDT with OI: 12447870.0
+2025-02-13 23:24:46,400 - INFO - Added ARUSDT with OI: 1501672.2
+2025-02-13 23:24:46,907 - INFO - Added ARPAUSDT with OI: 85048590.0
+2025-02-13 23:24:47,432 - INFO - Added CTSIUSDT with OI: 34623877.0
+2025-02-13 23:24:49,364 - INFO - Added PEOPLEUSDT with OI: 456401994.0
+2025-02-13 23:24:49,960 - INFO - Added ROSEUSDT with OI: 98479749.0
+2025-02-13 23:24:50,461 - INFO - Added DUSKUSDT with OI: 16792533.0
+2025-02-13 23:24:50,972 - INFO - Added FLOWUSDT with OI: 10820578.6
+2025-02-13 23:24:51,500 - INFO - Added IMXUSDT with OI: 9672687.0
+2025-02-13 23:24:52,052 - INFO - Added API3USDT with OI: 2789647.8
+2025-02-13 23:24:52,558 - INFO - Added GMTUSDT with OI: 192722940.0
+2025-02-13 23:24:53,157 - INFO - Added APEUSDT with OI: 18563961.0
+2025-02-13 23:24:53,783 - INFO - Added WOOUSDT with OI: 22743877.0
+2025-02-13 23:24:54,236 - INFO - Added JASMYUSDT with OI: 468587496.0
+2025-02-13 23:24:54,797 - INFO - Added OPUSDT with OI: 24604955.4
+2025-02-13 23:24:55,297 - INFO - Added INJUSDT with OI: 1556433.0
+2025-02-13 23:24:56,039 - INFO - Added STGUSDT with OI: 9773876.0
+2025-02-13 23:24:56,675 - INFO - Added SPELLUSDT with OI: 6091034179.0
+2025-02-13 23:24:57,182 - INFO - Added 1000LUNCUSDT with OI: 135189917.0
+2025-02-13 23:24:57,689 - INFO - Added LUNA2USDT with OI: 15775170.0
+2025-02-13 23:24:58,271 - INFO - Added LDOUSDT with OI: 29653870.0
+2025-02-13 23:24:58,888 - INFO - Added ICPUSDT with OI: 1815940.0
+2025-02-13 23:24:59,610 - INFO - Added APTUSDT with OI: 7233060.4
+2025-02-13 23:25:00,633 - INFO - Added FETUSDT with OI: 32025780.0
+2025-02-13 23:25:01,178 - INFO - Added FXSUSDT with OI: 1129570.7
+2025-02-13 23:25:01,670 - INFO - Added HOOKUSDT with OI: 10906910.7
+2025-02-13 23:25:02,182 - INFO - Added MAGICUSDT with OI: 11669985.8
+2025-02-13 23:25:02,809 - INFO - Added TUSDT with OI: 86669234.0
+2025-02-13 23:25:03,345 - INFO - Added HIGHUSDT with OI: 2851320.6
+2025-02-13 23:25:04,011 - INFO - Added MINAUSDT with OI: 14993535.0
+2025-02-13 23:25:04,513 - INFO - Added ASTRUSDT with OI: 61911434.0
+2025-02-13 23:25:05,014 - INFO - Added PHBUSDT with OI: 2539093.0
+2025-02-13 23:25:06,015 - INFO - Added CFXUSDT with OI: 91102158.0
+2025-02-13 23:25:06,523 - INFO - Added STXUSDT with OI: 13782324.0
+2025-02-13 23:25:07,145 - INFO - Added BNXUSDT with OI: 158380997.4
+2025-02-13 23:25:07,636 - INFO - Added ACHUSDT with OI: 261761683.0
+2025-02-13 23:25:08,723 - INFO - Added CKBUSDT with OI: 542334117.0
+2025-02-13 23:25:09,246 - INFO - Added PERPUSDT with OI: 4001998.9
+2025-02-13 23:25:09,756 - INFO - Added TRUUSDT with OI: 48273151.0
+2025-02-13 23:25:10,354 - INFO - Added LQTYUSDT with OI: 2435181.4
+2025-02-13 23:25:10,855 - INFO - Added USDCUSDT with OI: 6799634.0
+2025-02-13 23:25:11,380 - INFO - Added IDUSDT with OI: 9418689.0
+2025-02-13 23:25:12,000 - INFO - Added ARBUSDT with OI: 65045396.4
+2025-02-13 23:25:12,523 - INFO - Added JOEUSDT with OI: 8817907.0
+2025-02-13 23:25:13,094 - INFO - Added TLMUSDT with OI: 218637198.0
+2025-02-13 23:25:13,663 - INFO - Added AMBUSDT with OI: 455289746.0
+2025-02-13 23:25:14,170 - INFO - Added LEVERUSDT with OI: 2150026736.0
+2025-02-13 23:25:14,757 - INFO - Added RDNTUSDT with OI: 70211110.0
+2025-02-13 23:25:15,329 - INFO - Added HFTUSDT with OI: 16826837.0
+2025-02-13 23:25:16,346 - INFO - Added BLURUSDT with OI: 37553554.0
+2025-02-13 23:25:16,913 - INFO - Added EDUUSDT with OI: 12878353.0
+2025-02-13 23:25:17,422 - INFO - Added SUIUSDT with OI: 46770543.1
+2025-02-13 23:25:17,928 - INFO - Added 1000PEPEUSDT with OI: 11322232884.0
+2025-02-13 23:25:18,428 - INFO - Added 1000FLOKIUSDT with OI: 160964193.0
+2025-02-13 23:25:18,934 - INFO - Added UMAUSDT with OI: 1394950.0
+2025-02-13 23:25:19,432 - INFO - Added COMBOUSDT with OI: 5859022.1
+2025-02-13 23:25:20,597 - INFO - Added MAVUSDT with OI: 23257487.0
+2025-02-13 23:25:21,273 - INFO - Added XVGUSDT with OI: 485330837.0
+2025-02-13 23:25:21,775 - INFO - Added WLDUSDT with OI: 45612559.0
+2025-02-13 23:25:22,452 - INFO - Added PENDLEUSDT with OI: 4340507.0
+2025-02-13 23:25:23,056 - INFO - Added ARKMUSDT with OI: 20898521.0
+2025-02-13 23:25:23,686 - INFO - Added AGLDUSDT with OI: 4796760.0
+2025-02-13 23:25:24,191 - INFO - Added YGGUSDT with OI: 13739939.0
+2025-02-13 23:25:24,716 - INFO - Added DODOXUSDT with OI: 21982475.0
+2025-02-13 23:25:25,219 - INFO - Added BNTUSDT with OI: 2952335.0
+2025-02-13 23:25:25,727 - INFO - Added OXTUSDT with OI: 21151672.0
+2025-02-13 23:25:26,329 - INFO - Added SEIUSDT with OI: 99303628.0
+2025-02-13 23:25:26,835 - INFO - Added CYBERUSDT with OI: 1558151.6
+2025-02-13 23:25:27,341 - INFO - Added HIFIUSDT with OI: 5318118.0
+2025-02-13 23:25:27,843 - INFO - Added ARKUSDT with OI: 4297346.0
+2025-02-13 23:25:28,460 - INFO - Added BICOUSDT with OI: 12637263.0
+2025-02-13 23:25:28,964 - INFO - Added BIGTIMEUSDT with OI: 66807567.0
+2025-02-13 23:25:29,506 - INFO - Added WAXPUSDT with OI: 56737327.0
+2025-02-13 23:25:30,526 - INFO - Added RIFUSDT with OI: 38285279.0
+2025-02-13 23:25:31,038 - INFO - Added POLYXUSDT with OI: 9969585.0
+2025-02-13 23:25:32,182 - INFO - Added POWRUSDT with OI: 11142238.0
+2025-02-13 23:25:32,807 - INFO - Added TIAUSDT with OI: 9314422.0
+2025-02-13 23:25:33,310 - INFO - Added CAKEUSDT with OI: 16046882.0
+2025-02-13 23:25:33,926 - INFO - Added MEMEUSDT with OI: 1460923491.0
+2025-02-13 23:25:34,433 - INFO - Added TWTUSDT with OI: 3327036.0
+2025-02-13 23:25:34,937 - INFO - Added TOKENUSDT with OI: 105619590.0
+2025-02-13 23:25:35,448 - INFO - Added ORDIUSDT with OI: 2607569.2
+2025-02-13 23:25:36,060 - INFO - Added STEEMUSDT with OI: 17587136.0
+2025-02-13 23:25:36,774 - INFO - Added BADGERUSDT with OI: 1425520.0
+2025-02-13 23:25:37,901 - INFO - Added NTRNUSDT with OI: 9895420.0
+2025-02-13 23:25:38,404 - INFO - Added KASUSDT with OI: 89904469.0
+2025-02-13 23:25:38,911 - INFO - Added BEAMXUSDT with OI: 457043781.0
+2025-02-13 23:25:39,454 - INFO - Added 1000BONKUSDT with OI: 1262698871.0
+2025-02-13 23:25:40,058 - INFO - Added PYTHUSDT with OI: 42561119.0
+2025-02-13 23:25:40,653 - INFO - Added SUPERUSDT with OI: 4597041.0
+2025-02-13 23:25:41,228 - INFO - Added USTCUSDT with OI: 201175013.0
+2025-02-13 23:25:41,687 - INFO - Added ONGUSDT with OI: 5873111.0
+2025-02-13 23:25:42,203 - INFO - Added ETHWUSDT with OI: 1041527.0
+2025-02-13 23:25:42,708 - INFO - Added JTOUSDT with OI: 4215742.0
+2025-02-13 23:25:43,262 - INFO - Added 1000SATSUSDT with OI: 403939567434.0
+2025-02-13 23:25:44,457 - INFO - Added 1000RATSUSDT with OI: 258331232.0
+2025-02-13 23:25:45,014 - INFO - Added ACEUSDT with OI: 2210204.26
+2025-02-13 23:25:46,257 - INFO - Added NFPUSDT with OI: 22947319.0
+2025-02-13 23:25:46,808 - INFO - Added AIUSDT with OI: 15472774.0
+2025-02-13 23:25:47,559 - INFO - Added XAIUSDT with OI: 51509030.0
+2025-02-13 23:25:48,287 - INFO - Added WIFUSDT with OI: 99602714.5
+2025-02-13 23:25:48,856 - INFO - Added MANTAUSDT with OI: 10017390.8
+2025-02-13 23:25:49,394 - INFO - Added ONDOUSDT with OI: 61791553.7
+2025-02-13 23:25:50,030 - INFO - Added LSKUSDT with OI: 2249484.0
+2025-02-13 23:25:50,543 - INFO - Added ALTUSDT with OI: 110032364.0
+2025-02-13 23:25:51,129 - INFO - Added JUPUSDT with OI: 51004414.0
+2025-02-13 23:25:51,825 - INFO - Added ZETAUSDT with OI: 9166799.0
+2025-02-13 23:25:53,432 - INFO - Added RONINUSDT with OI: 2658680.1
+2025-02-13 23:25:53,977 - INFO - Added DYMUSDT with OI: 6726166.8
+2025-02-13 23:25:54,483 - INFO - Added OMUSDT with OI: 51855740.0
+2025-02-13 23:25:55,043 - INFO - Added PIXELUSDT with OI: 53091397.0
+2025-02-13 23:25:55,685 - INFO - Added STRKUSDT with OI: 42434359.0
+2025-02-13 23:25:56,231 - INFO - Added GLMUSDT with OI: 9155641.0
+2025-02-13 23:25:56,734 - INFO - Added PORTALUSDT with OI: 19020410.3
+2025-02-13 23:25:57,362 - INFO - Added TONUSDT with OI: 8665314.8
+2025-02-13 23:25:57,977 - INFO - Added AXLUSDT with OI: 5126945.0
+2025-02-13 23:25:58,482 - INFO - Added MYROUSDT with OI: 119377936.0
+2025-02-13 23:25:59,559 - INFO - Added AEVOUSDT with OI: 30396242.0
+2025-02-13 23:26:00,209 - INFO - Added VANRYUSDT with OI: 60187287.0
+2025-02-13 23:26:00,812 - INFO - Added BOMEUSDT with OI: 6174673036.0
+2025-02-13 23:26:01,440 - INFO - Added ETHFIUSDT with OI: 13810589.7
+2025-02-13 23:26:01,961 - INFO - Added ENAUSDT with OI: 304218282.0
+2025-02-13 23:26:02,519 - INFO - Added WUSDT with OI: 66581809.6
+2025-02-13 23:26:03,220 - INFO - Added TNSRUSDT with OI: 10807452.7
+2025-02-13 23:26:03,826 - INFO - Added SAGAUSDT with OI: 11476511.9
+2025-02-13 23:26:05,401 - INFO - Added REZUSDT with OI: 192644129.0
+2025-02-13 23:26:05,958 - INFO - Added BBUSDT with OI: 25313380.0
+2025-02-13 23:26:06,714 - INFO - Added NOTUSDT with OI: 4058152672.0
+2025-02-13 23:26:07,224 - INFO - Added TURBOUSDT with OI: 1520240871.0
+2025-02-13 23:26:07,802 - INFO - Added IOUSDT with OI: 10637412.3
+2025-02-13 23:26:08,306 - INFO - Added ZKUSDT with OI: 86690290.0
+2025-02-13 23:26:08,845 - INFO - Added MEWUSDT with OI: 1047660980.0
+2025-02-13 23:26:09,469 - INFO - Added LISTAUSDT with OI: 51729692.0
+2025-02-13 23:26:09,970 - INFO - Added ZROUSDT with OI: 4268479.9
+2025-02-13 23:26:10,566 - INFO - Added RENDERUSDT with OI: 3374964.6
+2025-02-13 23:26:11,578 - INFO - Added RAREUSDT with OI: 25922911.0
+2025-02-13 23:26:12,106 - INFO - Added GUSDT with OI: 89396439.0
+2025-02-13 23:26:12,654 - INFO - Added SYNUSDT with OI: 6498853.0
+2025-02-13 23:26:13,329 - INFO - Added SYSUSDT with OI: 19912817.0
+2025-02-13 23:26:13,841 - INFO - Added VOXELUSDT with OI: 18116209.0
+2025-02-13 23:26:14,353 - INFO - Added BRETTUSDT with OI: 103044508.0
+2025-02-13 23:26:14,859 - INFO - Added ALPACAUSDT with OI: 35145594.0
+2025-02-13 23:26:15,364 - INFO - Added POPCATUSDT with OI: 63780615.0
+2025-02-13 23:26:15,879 - INFO - Added SUNUSDT with OI: 86233253.0
+2025-02-13 23:26:16,443 - INFO - Added VIDTUSDT with OI: 99638747.0
+2025-02-13 23:26:16,947 - INFO - Added NULSUSDT with OI: 5526420.0
+2025-02-13 23:26:17,631 - INFO - Added DOGSUSDT with OI: 37754697138.0
+2025-02-13 23:26:18,131 - INFO - Added MBOXUSDT with OI: 15297906.0
+2025-02-13 23:26:18,870 - INFO - Added CHESSUSDT with OI: 21616743.0
+2025-02-13 23:26:19,473 - INFO - Added FLUXUSDT with OI: 2871929.0
+2025-02-13 23:26:19,992 - INFO - Added BSWUSDT with OI: 78985066.0
+2025-02-13 23:26:20,502 - INFO - Added QUICKUSDT with OI: 42188548.0
+2025-02-13 23:26:21,125 - INFO - Added NEIROETHUSDT with OI: 387479900.0
+2025-02-13 23:26:22,241 - INFO - Added AERGOUSDT with OI: 18737452.0
+2025-02-13 23:26:22,767 - INFO - Added POLUSDT with OI: 57551828.0
+2025-02-13 23:26:23,276 - INFO - Added UXLINKUSDT with OI: 14750256.0
+2025-02-13 23:26:23,777 - INFO - Added 1MBABYDOGEUSDT with OI: 5309727299.0
+2025-02-13 23:26:24,315 - INFO - Added NEIROUSDT with OI: 98708530575.0
+2025-02-13 23:26:24,860 - INFO - Added KDAUSDT with OI: 3429506.0
+2025-02-13 23:26:25,364 - INFO - Added FIDAUSDT with OI: 19543356.0
+2025-02-13 23:26:25,865 - INFO - Added FIOUSDT with OI: 58288220.0
+2025-02-13 23:26:26,570 - INFO - Added CATIUSDT with OI: 26050438.0
+2025-02-13 23:26:27,154 - INFO - Added GHSTUSDT with OI: 3021078.0
+2025-02-13 23:26:27,664 - INFO - Added LOKAUSDT with OI: 8617791.0
+2025-02-13 23:26:28,322 - INFO - Added HMSTRUSDT with OI: 2963539824.0
+2025-02-13 23:26:30,227 - INFO - Added REIUSDT with OI: 32013661.0
+2025-02-13 23:26:30,736 - INFO - Added COSUSDT with OI: 309235020.0
+2025-02-13 23:26:31,240 - INFO - Added EIGENUSDT with OI: 10070110.9
+2025-02-13 23:26:31,753 - INFO - Added DIAUSDT with OI: 2645884.0
+2025-02-13 23:26:32,272 - INFO - Added 1000CATUSDT with OI: 652706386.0
+2025-02-13 23:26:32,781 - INFO - Added SCRUSDT with OI: 16718396.0
+2025-02-13 23:26:33,296 - INFO - Added GOATUSDT with OI: 116080397.0
+2025-02-13 23:26:33,813 - INFO - Added MOODENGUSDT with OI: 145833088.0
+2025-02-13 23:26:34,417 - INFO - Added SAFEUSDT with OI: 3141321.0
+2025-02-13 23:26:35,447 - INFO - Added TROYUSDT with OI: 2583366677.0
+2025-02-13 23:26:36,125 - INFO - Added PONKEUSDT with OI: 12095457.0
+2025-02-13 23:26:36,781 - INFO - Added COWUSDT with OI: 19571536.0
+2025-02-13 23:26:37,396 - INFO - Added CETUSUSDT with OI: 28226855.0
+2025-02-13 23:26:38,007 - INFO - Added 1000000MOGUSDT with OI: 4427923.2
+2025-02-13 23:26:38,510 - INFO - Added GRASSUSDT with OI: 6920441.9
+2025-02-13 23:26:39,032 - INFO - Added DRIFTUSDT with OI: 3857027.0
+2025-02-13 23:26:39,514 - INFO - Added SWELLUSDT with OI: 126565572.0
+2025-02-13 23:26:40,039 - INFO - Added ACTUSDT with OI: 372745784.0
+2025-02-13 23:26:40,671 - INFO - Added PNUTUSDT with OI: 202807908.0
+2025-02-13 23:26:41,186 - INFO - Added HIPPOUSDT with OI: 1576312994.0
+2025-02-13 23:26:41,694 - INFO - Added 1000XUSDT with OI: 11353742.0
+2025-02-13 23:26:42,197 - INFO - Added DEGENUSDT with OI: 451395477.0
+2025-02-13 23:26:42,712 - INFO - Added BANUSDT with OI: 146855511.0
+2025-02-13 23:26:43,847 - INFO - Added SLERFUSDT with OI: 8519653.0
+2025-02-13 23:26:44,401 - INFO - Added SCRTUSDT with OI: 4831276.0
+2025-02-13 23:26:44,913 - INFO - Added 1000CHEEMSUSDT with OI: 22012720352.0
+2025-02-13 23:26:45,414 - INFO - Added 1000WHYUSDT with OI: 44398737307.0
+2025-02-13 23:26:45,997 - INFO - Added THEUSDT with OI: 21614332.8
+2025-02-13 23:26:46,507 - INFO - Added MORPHOUSDT with OI: 2624670.2
+2025-02-13 23:26:47,018 - INFO - Added CHILLGUYUSDT with OI: 211455866.0
+2025-02-13 23:26:47,535 - INFO - Added KAIAUSDT with OI: 24431044.0
+2025-02-13 23:26:48,145 - INFO - Added AEROUSDT with OI: 4941530.3
+2025-02-13 23:26:48,657 - INFO - Added ACXUSDT with OI: 7006114.5
+2025-02-13 23:26:49,170 - INFO - Added ORCAUSDT with OI: 1202699.5
+2025-02-13 23:26:49,680 - INFO - Added MOVEUSDT with OI: 31385280.0
+2025-02-13 23:26:50,191 - INFO - Added RAYSOLUSDT with OI: 1521063.4
+2025-02-13 23:26:50,707 - INFO - Added KOMAUSDT with OI: 96868178.0
+2025-02-13 23:26:51,215 - INFO - Added VIRTUALUSDT with OI: 17546523.2
+2025-02-13 23:26:51,730 - INFO - Added SPXUSDT with OI: 4603130.0
+2025-02-13 23:26:52,233 - INFO - Added MEUSDT with OI: 7588437.3
+2025-02-13 23:26:52,754 - INFO - Added AVAUSDT with OI: 2819440.4
+2025-02-13 23:26:53,409 - INFO - Added DEGOUSDT with OI: 1517627.9
+2025-02-13 23:26:53,983 - INFO - Added VELODROMEUSDT with OI: 22763662.0
+2025-02-13 23:26:54,603 - INFO - Added MOCAUSDT with OI: 31067395.0
+2025-02-13 23:26:55,346 - INFO - Added VANAUSDT with OI: 1290528.79
+2025-02-13 23:26:55,890 - INFO - Added PENGUUSDT with OI: 3580547273.0
+2025-02-13 23:26:56,479 - INFO - Added LUMIAUSDT with OI: 4660253.0
+2025-02-13 23:26:56,983 - INFO - Added USUALUSDT with OI: 77121351.0
+2025-02-13 23:26:57,488 - INFO - Added AIXBTUSDT with OI: 54735738.0
+2025-02-13 23:26:58,079 - INFO - Added FARTCOINUSDT with OI: 71002441.9
+2025-02-13 23:26:58,581 - INFO - Added KMNOUSDT with OI: 15713002.0
+2025-02-13 23:26:59,125 - INFO - Added CGPTUSDT with OI: 26333301.0
+2025-02-13 23:26:59,634 - INFO - Added HIVEUSDT with OI: 16886637.0
+2025-02-13 23:27:02,237 - INFO - Added PHAUSDT with OI: 33541332.0
+2025-02-13 23:27:02,879 - INFO - Added DFUSDT with OI: 103220808.0
+2025-02-13 23:27:03,635 - INFO - Added GRIFFAINUSDT with OI: 63450423.0
+2025-02-13 23:27:04,277 - INFO - Added AI16ZUSDT with OI: 57378555.9
+2025-02-13 23:27:04,961 - INFO - Added ZEREBROUSDT with OI: 187234066.0
+2025-02-13 23:27:05,663 - INFO - Added BIOUSDT with OI: 85511658.0
+2025-02-13 23:27:06,275 - INFO - Added COOKIEUSDT with OI: 41649635.0
+2025-02-13 23:27:06,774 - INFO - Added ALCHUSDT with OI: 198351248.0
+2025-02-13 23:27:07,403 - INFO - Added SWARMSUSDT with OI: 287281832.0
+2025-02-13 23:27:08,031 - INFO - Added SONICUSDT with OI: 13151010.2
+2025-02-13 23:27:08,681 - INFO - Added DUSDT with OI: 36118005.0
+2025-02-13 23:27:09,918 - INFO - Added SUSDT with OI: 23032888.0
+2025-02-13 23:27:10,568 - INFO - Added SOLVUSDT with OI: 200059056.0
+2025-02-13 23:27:11,157 - INFO - Added ARCUSDT with OI: 49661470.0
+2025-02-13 23:27:11,799 - INFO - Added AVAAIUSDT with OI: 73713340.0
+2025-02-13 23:27:12,328 - INFO - Added TRUMPUSDT with OI: 11890189.21
+2025-02-13 23:27:12,839 - INFO - Added MELANIAUSDT with OI: 12616873.31
+2025-02-13 23:27:13,463 - INFO - Added VTHOUSDT with OI: 1265095232.0
+2025-02-13 23:27:13,928 - INFO - Added ANIMEUSDT with OI: 220234654.0
+2025-02-13 23:27:14,540 - INFO - Added VINEUSDT with OI: 178722391.0
+2025-02-13 23:27:15,089 - INFO - Added PIPPINUSDT with OI: 116973075.0
+2025-02-13 23:27:15,588 - INFO - Added VVVUSDT with OI: 2137596.39
+2025-02-13 23:27:16,120 - INFO - Added BERAUSDT with OI: 6122567.4
+2025-02-13 23:27:16,708 - INFO - Added TSTUSDT with OI: 247836913.0
+2025-02-13 23:27:17,328 - INFO - Added LAYERUSDT with OI: 32069101.7
+2025-02-13 23:27:17,986 - INFO - Added HEIUSDT with OI: 5823107.6
+2025-02-13 23:27:18,603 - INFO - Added B3USDT with OI: 223815785.0
+2025-02-13 23:27:19,257 - INFO - Added IPUSDT with OI: 3874704.9
+2025-02-13 23:27:19,359 - INFO - After liquidity filter: 326
+2025-02-13 23:33:23,564 - INFO - Aligned data shape: (168, 321)
+2025-02-13 23:45:19,221 - INFO - Saved 20 pairs to pairs_to_trade.csv
+2025-02-13 23:48:10,059 - INFO - Starting pairs trading analysis
+2025-02-13 23:51:35,876 - INFO - Initial markets: 367
+2025-02-13 23:54:57,505 - INFO - After liquidity filter: 126
+2025-02-13 23:57:56,658 - INFO - Aligned data shape: (90, 102)
+2025-02-13 23:57:56,974 - ERROR - No cointegrated pairs found
+2025-02-14 00:11:44,494 - INFO - Starting pairs trading analysis
+2025-02-14 00:15:13,755 - INFO - Initial markets: 367
+2025-02-14 00:18:28,900 - INFO - After liquidity filter: 126
+2025-02-14 00:20:49,205 - INFO - Aligned data shape: (180, 80)
+2025-02-14 00:21:59,073 - INFO - Saved 50 pairs to pairs_to_trade.csv
+2025-02-14 00:55:02,046 - INFO - Starting pairs trading analysis
+2025-02-14 00:58:28,751 - INFO - Initial markets: 367
+2025-02-14 01:01:47,662 - INFO - After liquidity filter: 165
+2025-02-14 01:03:47,930 - INFO - Aligned data shape: (90, 162)
+2025-02-14 01:03:49,505 - ERROR - No cointegrated pairs found
+2025-02-14 01:04:27,353 - INFO - Starting pairs trading analysis
+2025-02-14 01:07:50,262 - INFO - Initial markets: 367
+2025-02-14 01:11:09,275 - INFO - After liquidity filter: 166
+2025-02-14 01:13:10,879 - INFO - Aligned data shape: (90, 163)
+2025-02-14 01:16:01,948 - INFO - Saved 50 pairs to pairs_to_trade.csv
+2025-02-14 01:19:51,536 - INFO - Starting pairs trading analysis
+2025-02-14 01:23:09,803 - INFO - Initial markets: 367
+2025-02-14 01:26:26,167 - INFO - After liquidity filter: 165
+2025-02-14 01:28:45,626 - INFO - Aligned data shape: (360, 162)
+2025-02-14 01:34:53,347 - INFO - Saved 100 pairs to pairs_to_trade.csv
+2025-02-14 14:12:22,154 - INFO - Starting pairs trading analysis
+2025-02-14 14:15:42,446 - INFO - Initial markets: 367
+2025-02-14 14:18:56,932 - INFO - After liquidity filter: 86
+2025-02-14 14:19:51,550 - INFO - Aligned data shape: (180, 79)
+2025-02-14 14:20:59,842 - INFO - Saved 100 pairs to pairs_to_trade.csv
+2025-02-15 11:56:40,043 - INFO - Starting pairs trading analysis
+2025-02-15 11:59:56,618 - INFO - Initial markets: 367
+2025-02-15 12:03:09,416 - INFO - After liquidity filter: 51
+2025-02-15 12:03:32,669 - ERROR - Error fetching OHLCV for JASMY/USDT:USDT: binance GET https://fapi.binance.com/fapi/v1/klines?interval=1d&limit=1500&symbol=JASMYUSDT&startTime=1731844989418
+2025-02-15 12:04:05,325 - INFO - Aligned data shape: (90, 42)
+2025-02-15 12:04:05,435 - ERROR - No cointegrated pairs found
+2025-02-15 12:06:20,384 - INFO - Starting pairs trading analysis
+2025-02-15 12:09:38,497 - INFO - Initial markets: 367
+2025-02-15 12:12:52,983 - INFO - After liquidity filter: 51
+2025-02-15 12:13:38,549 - INFO - Aligned data shape: (90, 43)
+2025-02-15 12:13:57,909 - INFO - Saved 10 pairs to pairs_to_trade.csv
+2025-02-16 12:51:47,187 - INFO - Starting pairs trading analysis
+2025-02-16 12:55:06,903 - INFO - Initial markets: 367
+2025-02-16 12:58:21,817 - INFO - After liquidity filter: 129
+2025-02-16 13:00:15,185 - INFO - Aligned data shape: (769, 0)
+2025-02-16 13:00:15,188 - ERROR - Insufficient data for pair analysis
+2025-02-16 15:26:45,813 - INFO - Starting pairs trading analysis
+2025-02-16 15:30:39,995 - INFO - Initial markets: 367
+2025-02-16 15:34:37,357 - INFO - After liquidity filter: 127
+2025-02-16 15:39:57,917 - INFO - Aligned data shape: (768, 118)
+2025-02-16 15:43:13,025 - INFO - Saved 10 pairs to pairs_to_trade.csv
+2025-02-16 20:01:52,993 - INFO - Starting pairs trading analysis
+2025-02-16 20:05:21,031 - INFO - Initial markets: 367
+2025-02-16 20:08:45,621 - INFO - After liquidity filter: 128
+2025-02-16 20:12:52,550 - INFO - Aligned data shape: (768, 119)
+2025-02-16 20:16:17,487 - INFO - Saved 10 pairs to pairs_to_trade.csv
+2025-02-16 20:31:20,973 - INFO - Starting pairs trading analysis
+2025-02-16 20:34:48,135 - INFO - Initial markets: 367
+2025-02-16 20:38:09,050 - INFO - After liquidity filter: 128
+2025-02-16 20:41:39,936 - INFO - Aligned data shape: (768, 119)
+2025-02-16 20:45:03,503 - INFO - Saved 10 pairs to pairs_to_trade.csv
+2025-02-16 20:53:31,118 - INFO - Starting pairs trading analysis
+2025-02-16 20:57:06,906 - INFO - Initial markets: 367
+2025-02-16 21:01:54,950 - INFO - After liquidity filter: 95
+2025-02-16 21:04:38,937 - INFO - Aligned data shape: (768, 82)
+2025-02-16 21:06:22,408 - INFO - Saved 10 pairs to pairs_to_trade.csv
+2025-02-16 21:26:11,160 - INFO - Starting pairs trading analysis
+2025-02-16 21:29:40,189 - INFO - Initial markets: 367
+2025-02-16 21:35:32,581 - INFO - After liquidity filter: 42
+2025-02-16 21:36:04,752 - INFO - Aligned data shape: (768, 36)
+2025-02-16 21:36:39,899 - INFO - Saved 10 pairs to pairs_to_trade.csv
+2025-02-16 21:57:49,658 - INFO - Starting pairs trading analysis
+2025-02-16 22:01:08,064 - INFO - Initial markets: 367
+2025-02-16 22:01:08,066 - INFO - After liquidity filter: 367
+2025-02-16 22:05:59,594 - INFO - Aligned data shape: (768, 350)
+2025-02-16 23:14:46,433 - INFO - Saved 10 pairs to pairs_to_trade.csv
+2025-02-17 10:21:21,001 - INFO - Starting pairs trading analysis
+2025-02-17 10:25:01,147 - INFO - Initial markets: 367
+2025-02-17 10:32:17,005 - INFO - After liquidity filter: 46
+2025-02-17 10:34:20,988 - INFO - Aligned data shape: (540, 33)
+2025-02-17 10:34:41,629 - INFO - Saved 10 pairs to pairs_to_trade.csv
+2025-02-17 14:57:19,456 - INFO - Starting pairs trading analysis
+2025-02-17 15:00:55,823 - INFO - Initial markets: 367
+2025-02-17 15:08:18,608 - INFO - After liquidity filter: 50
+2025-02-17 15:10:40,366 - INFO - Aligned data shape: (540, 36)
+2025-02-17 15:10:55,879 - INFO - Saved 10 pairs to pairs_to_trade.csv
